@@ -1,0 +1,1726 @@
+timestamp,esgScore,governanceScore,environmentScore,socialScore,ticker,peer_group
+2014-09-01,66.0,74.0,60.0,66.0,TGT,Retailing
+2014-10-01,66.0,74.0,60.0,66.0,TGT,Retailing
+2014-11-01,66.0,74.0,60.0,66.0,TGT,Retailing
+2014-12-01,66.0,74.0,60.0,66.0,TGT,Retailing
+2015-01-01,66.0,74.0,60.0,66.0,TGT,Retailing
+2015-02-01,67.0,75.0,60.0,69.0,TGT,Retailing
+2015-03-01,66.0,75.0,60.0,66.0,TGT,Retailing
+2015-04-01,66.0,75.0,60.0,66.0,TGT,Retailing
+2015-05-01,66.0,75.0,60.0,66.0,TGT,Retailing
+2015-06-01,66.0,75.0,60.0,66.0,TGT,Retailing
+2015-07-01,66.0,75.0,60.0,66.0,TGT,Retailing
+2015-08-01,69.0,75.0,68.0,66.0,TGT,Retailing
+2015-09-01,69.0,75.0,68.0,66.0,TGT,Retailing
+2015-10-01,69.0,75.0,68.0,66.0,TGT,Retailing
+2015-11-01,69.0,75.0,68.0,66.0,TGT,Retailing
+2015-12-01,69.0,75.0,68.0,66.0,TGT,Retailing
+2016-01-01,69.1,75.29,67.88,66.31,TGT,Retailing
+2016-02-01,69.1,75.29,67.88,66.31,TGT,Retailing
+2016-03-01,69.1,75.29,67.88,66.31,TGT,Retailing
+2016-04-01,63.92,75.29,67.86,53.36,TGT,Retailing
+2016-05-01,62.97,75.29,67.86,50.98,TGT,Retailing
+2016-06-01,64.55,75.29,67.86,54.94,TGT,Retailing
+2016-07-01,64.27,75.29,67.05,54.94,TGT,Retailing
+2016-08-01,64.27,75.29,67.05,54.94,TGT,Retailing
+2016-09-01,64.27,75.29,67.05,54.94,TGT,Retailing
+2016-10-01,64.27,75.29,67.05,54.94,TGT,Retailing
+2016-11-01,64.27,75.29,67.05,54.94,TGT,Retailing
+2016-12-01,63.42,71.89,67.05,54.94,TGT,Retailing
+2017-01-01,63.19,71.89,66.37,54.96,TGT,Retailing
+2017-02-01,63.19,71.89,66.37,54.96,TGT,Retailing
+2017-03-01,63.19,71.89,66.37,54.96,TGT,Retailing
+2017-04-01,63.19,71.89,66.37,54.96,TGT,Retailing
+2017-05-01,63.46,71.89,67.15,54.96,TGT,Retailing
+2017-06-01,63.46,71.89,67.15,54.96,TGT,Retailing
+2017-07-01,63.46,71.89,67.15,54.96,TGT,Retailing
+2017-08-01,63.05,71.89,65.98,54.96,TGT,Retailing
+2017-09-01,63.05,71.89,65.98,54.96,TGT,Retailing
+2017-10-01,63.31,69.79,66.13,56.79,TGT,Retailing
+2017-11-01,63.31,69.79,66.13,56.79,TGT,Retailing
+2017-12-01,63.31,69.79,66.13,56.79,TGT,Retailing
+2018-01-01,63.31,69.79,66.13,56.79,TGT,Retailing
+2018-02-01,63.31,69.79,66.13,56.79,TGT,Retailing
+2018-03-01,63.31,69.79,66.13,56.79,TGT,Retailing
+2018-04-01,63.31,69.79,66.13,56.79,TGT,Retailing
+2018-05-01,63.31,69.79,66.13,56.79,TGT,Retailing
+2018-06-01,63.31,69.79,66.13,56.79,TGT,Retailing
+2018-07-01,63.31,69.79,66.13,56.79,TGT,Retailing
+2018-08-01,61.51,69.79,66.13,52.29,TGT,Retailing
+2018-09-01,61.51,69.79,66.13,52.29,TGT,Retailing
+2018-10-01,59.95,68.79,66.91,48.34,TGT,Retailing
+2018-11-01,59.65,67.59,66.91,48.34,TGT,Retailing
+2018-12-01,59.55,67.19,66.91,48.34,TGT,Retailing
+2019-01-01,58.93,68.49,64.2,48.34,TGT,Retailing
+2019-02-01,58.93,68.49,64.2,48.34,TGT,Retailing
+2019-03-01,58.93,68.49,64.2,48.34,TGT,Retailing
+2019-04-01,58.93,68.49,64.2,48.34,TGT,Retailing
+2019-05-01,58.93,68.49,64.2,48.34,TGT,Retailing
+2019-06-01,58.93,68.49,64.2,48.34,TGT,Retailing
+2019-07-01,58.93,68.49,64.2,48.34,TGT,Retailing
+2019-08-01,58.93,68.49,64.2,48.34,TGT,Retailing
+2019-09-01,58.76,65.45,64.2,49.83,TGT,Retailing
+2019-10-01,58.76,65.45,64.2,49.83,TGT,Retailing
+2019-11-01,61.13,64.95,69.61,51.33,TGT,Retailing
+2019-12-01,58.65,65.15,66.81,47.44,TGT,Retailing
+2020-01-01,16.11,5.37,1.9,8.84,TGT,Retailing
+2020-02-01,15.03,5.11,1.9,8.03,TGT,Retailing
+2020-03-01,15.23,5.11,1.9,8.23,TGT,Retailing
+2020-04-01,,,,,TGT,Retailing
+2020-05-01,,,,,TGT,Retailing
+2020-06-01,,,,,TGT,Retailing
+2020-07-01,15.35,5.11,2.01,8.23,TGT,Retailing
+2020-08-01,15.35,5.11,2.01,8.23,TGT,Retailing
+2020-09-01,,,,,TGT,Retailing
+2020-10-01,15.37,5.13,2.01,8.23,TGT,Retailing
+2020-11-01,,,,,TGT,Retailing
+2020-12-01,,,,,TGT,Retailing
+2021-01-01,14.82,5.34,1.85,7.63,TGT,Retailing
+2021-02-01,14.82,5.34,1.85,7.63,TGT,Retailing
+2021-03-01,15.04,5.34,2.08,7.63,TGT,Retailing
+2021-04-01,,,,,TGT,Retailing
+2021-05-01,15.04,5.34,2.08,7.63,TGT,Retailing
+2021-06-01,,,,,TGT,Retailing
+2021-07-01,,,,,TGT,Retailing
+2021-08-01,,,,,TGT,Retailing
+2021-09-01,15.04,5.34,2.08,7.63,TGT,Retailing
+2021-10-01,,,,,TGT,Retailing
+2021-11-01,,,,,TGT,Retailing
+2021-12-01,,,,,TGT,Retailing
+2022-01-01,,,,,TGT,Retailing
+2022-02-01,14.79,5.06,2.17,7.56,TGT,Retailing
+2022-03-01,,,,,TGT,Retailing
+2022-04-01,,,,,TGT,Retailing
+2022-05-01,14.79,5.06,2.17,7.56,TGT,Retailing
+2022-06-01,,,,,TGT,Retailing
+2022-07-01,,,,,TGT,Retailing
+2022-08-01,14.72,5.06,2.04,7.63,TGT,Retailing
+2014-09-01,77.0,76.0,76.0,78.0,PEP,Food Products
+2014-10-01,77.0,76.0,76.0,78.0,PEP,Food Products
+2014-11-01,77.0,76.0,76.0,78.0,PEP,Food Products
+2014-12-01,77.0,76.0,76.0,78.0,PEP,Food Products
+2015-01-01,77.0,82.0,76.0,76.0,PEP,Food Products
+2015-02-01,77.0,82.0,76.0,76.0,PEP,Food Products
+2015-03-01,75.0,82.0,73.0,73.0,PEP,Food Products
+2015-04-01,75.0,82.0,73.0,73.0,PEP,Food Products
+2015-05-01,75.0,82.0,73.0,73.0,PEP,Food Products
+2015-06-01,75.0,82.0,73.0,73.0,PEP,Food Products
+2015-07-01,75.0,82.0,73.0,73.0,PEP,Food Products
+2015-08-01,74.0,82.0,71.0,73.0,PEP,Food Products
+2015-09-01,74.0,82.0,71.0,73.0,PEP,Food Products
+2015-10-01,74.0,82.0,71.0,73.0,PEP,Food Products
+2015-11-01,74.0,82.0,71.0,73.0,PEP,Food Products
+2015-12-01,74.0,82.0,71.0,73.0,PEP,Food Products
+2016-01-01,74.3,81.71,70.64,72.88,PEP,Food Products
+2016-02-01,72.98,76.42,70.64,72.88,PEP,Food Products
+2016-03-01,72.98,76.42,70.64,72.88,PEP,Food Products
+2016-04-01,71.92,76.45,71.0,69.88,PEP,Food Products
+2016-05-01,71.92,76.45,71.0,69.88,PEP,Food Products
+2016-06-01,71.92,76.45,71.0,69.88,PEP,Food Products
+2016-07-01,71.92,76.45,71.0,69.88,PEP,Food Products
+2016-08-01,70.13,75.31,71.0,66.13,PEP,Food Products
+2016-09-01,68.43,75.51,69.12,63.41,PEP,Food Products
+2016-10-01,68.43,75.51,69.12,63.41,PEP,Food Products
+2016-11-01,68.43,75.51,69.12,63.41,PEP,Food Products
+2016-12-01,68.43,75.51,69.12,63.41,PEP,Food Products
+2017-01-01,70.07,75.58,75.38,61.98,PEP,Food Products
+2017-02-01,70.07,75.58,75.38,61.98,PEP,Food Products
+2017-03-01,70.07,75.58,75.38,61.98,PEP,Food Products
+2017-04-01,70.07,75.58,75.38,61.98,PEP,Food Products
+2017-05-01,70.38,75.58,76.26,61.98,PEP,Food Products
+2017-06-01,70.38,75.58,76.26,61.98,PEP,Food Products
+2017-07-01,70.38,75.58,76.26,61.98,PEP,Food Products
+2017-08-01,71.91,75.58,77.51,64.71,PEP,Food Products
+2017-09-01,71.91,75.58,77.51,64.71,PEP,Food Products
+2017-10-01,72.16,72.48,79.09,65.89,PEP,Food Products
+2017-11-01,72.16,72.48,79.09,65.89,PEP,Food Products
+2017-12-01,72.3,73.04,79.09,65.89,PEP,Food Products
+2018-01-01,72.3,73.04,79.09,65.89,PEP,Food Products
+2018-02-01,72.3,73.04,79.09,65.89,PEP,Food Products
+2018-03-01,72.3,73.04,79.09,65.89,PEP,Food Products
+2018-04-01,72.3,73.04,79.09,65.89,PEP,Food Products
+2018-05-01,72.3,73.04,79.09,65.89,PEP,Food Products
+2018-06-01,71.84,73.04,79.09,64.75,PEP,Food Products
+2018-07-01,67.27,74.7,71.46,58.95,PEP,Food Products
+2018-08-01,67.27,74.7,71.46,58.95,PEP,Food Products
+2018-09-01,67.27,74.7,71.46,58.95,PEP,Food Products
+2018-10-01,67.27,74.7,71.46,58.95,PEP,Food Products
+2018-11-01,67.05,73.81,71.46,58.95,PEP,Food Products
+2018-12-01,67.05,73.81,71.46,58.95,PEP,Food Products
+2019-01-01,67.05,73.81,71.46,58.95,PEP,Food Products
+2019-02-01,67.05,73.81,71.46,58.95,PEP,Food Products
+2019-03-01,67.05,73.81,71.46,58.95,PEP,Food Products
+2019-04-01,67.05,73.81,71.46,58.95,PEP,Food Products
+2019-05-01,67.05,73.81,71.46,58.95,PEP,Food Products
+2019-06-01,67.07,73.92,71.46,58.95,PEP,Food Products
+2019-07-01,67.52,73.92,72.75,58.95,PEP,Food Products
+2019-08-01,67.52,73.92,72.75,58.95,PEP,Food Products
+2019-09-01,67.52,73.92,72.75,58.95,PEP,Food Products
+2019-10-01,67.52,73.92,72.75,58.95,PEP,Food Products
+2019-11-01,71.71,73.92,74.37,67.99,PEP,Food Products
+2019-12-01,21.95,4.87,7.27,9.8,PEP,Food Products
+2020-01-01,21.95,4.87,7.27,9.8,PEP,Food Products
+2020-02-01,21.95,4.87,7.27,9.8,PEP,Food Products
+2020-03-01,21.95,4.87,7.27,9.8,PEP,Food Products
+2020-04-01,,,,,PEP,Food Products
+2020-05-01,,,,,PEP,Food Products
+2020-06-01,,,,,PEP,Food Products
+2020-07-01,22.17,4.94,7.43,9.8,PEP,Food Products
+2020-08-01,22.17,4.94,7.43,9.8,PEP,Food Products
+2020-09-01,,,,,PEP,Food Products
+2020-10-01,21.64,4.62,7.22,9.8,PEP,Food Products
+2020-11-01,,,,,PEP,Food Products
+2020-12-01,,,,,PEP,Food Products
+2021-01-01,17.57,4.63,5.15,7.79,PEP,Food Products
+2021-02-01,17.57,4.63,5.15,7.79,PEP,Food Products
+2021-03-01,17.76,4.82,5.15,7.79,PEP,Food Products
+2021-04-01,,,,,PEP,Food Products
+2021-05-01,17.68,4.82,5.07,7.79,PEP,Food Products
+2021-06-01,,,,,PEP,Food Products
+2021-07-01,,,,,PEP,Food Products
+2021-08-01,,,,,PEP,Food Products
+2021-09-01,17.41,4.55,5.07,7.79,PEP,Food Products
+2021-10-01,,,,,PEP,Food Products
+2021-11-01,,,,,PEP,Food Products
+2021-12-01,,,,,PEP,Food Products
+2022-01-01,,,,,PEP,Food Products
+2022-02-01,16.01,4.55,4.91,6.55,PEP,Food Products
+2022-03-01,,,,,PEP,Food Products
+2022-04-01,,,,,PEP,Food Products
+2022-05-01,16.01,4.55,4.91,6.55,PEP,Food Products
+2022-06-01,,,,,PEP,Food Products
+2022-07-01,,,,,PEP,Food Products
+2022-08-01,15.94,4.48,4.91,6.55,PEP,Food Products
+2014-09-01,61.0,54.0,74.0,50.0,AMT,Real Estate
+2014-10-01,61.0,54.0,74.0,50.0,AMT,Real Estate
+2014-11-01,61.0,54.0,74.0,50.0,AMT,Real Estate
+2014-12-01,61.0,54.0,74.0,50.0,AMT,Real Estate
+2015-01-01,66.0,67.0,76.0,51.0,AMT,Real Estate
+2015-02-01,66.0,67.0,76.0,51.0,AMT,Real Estate
+2015-03-01,66.0,67.0,76.0,51.0,AMT,Real Estate
+2015-04-01,66.0,67.0,76.0,51.0,AMT,Real Estate
+2015-05-01,66.0,67.0,76.0,51.0,AMT,Real Estate
+2015-06-01,66.0,67.0,76.0,51.0,AMT,Real Estate
+2015-07-01,66.0,67.0,76.0,51.0,AMT,Real Estate
+2015-08-01,66.0,67.0,76.0,51.0,AMT,Real Estate
+2015-09-01,66.0,67.0,76.0,51.0,AMT,Real Estate
+2015-10-01,66.0,67.0,76.0,51.0,AMT,Real Estate
+2015-11-01,66.0,67.0,76.0,51.0,AMT,Real Estate
+2015-12-01,68.0,68.0,79.0,55.0,AMT,Real Estate
+2016-01-01,68.44,68.06,78.87,54.91,AMT,Real Estate
+2016-02-01,68.44,68.06,78.87,54.91,AMT,Real Estate
+2016-03-01,68.44,68.06,78.87,54.91,AMT,Real Estate
+2016-04-01,65.33,62.46,78.88,50.13,AMT,Real Estate
+2016-05-01,65.33,62.46,78.88,50.13,AMT,Real Estate
+2016-06-01,65.33,62.46,78.88,50.13,AMT,Real Estate
+2016-07-01,65.33,62.46,78.88,50.13,AMT,Real Estate
+2016-08-01,65.33,62.46,78.88,50.13,AMT,Real Estate
+2016-09-01,65.33,62.46,78.88,50.13,AMT,Real Estate
+2016-10-01,65.33,62.46,78.88,50.13,AMT,Real Estate
+2016-11-01,65.33,62.46,78.88,50.13,AMT,Real Estate
+2016-12-01,65.33,62.46,78.88,50.13,AMT,Real Estate
+2017-01-01,53.13,60.31,51.99,47.49,AMT,Real Estate
+2017-02-01,53.13,60.31,51.99,47.49,AMT,Real Estate
+2017-03-01,52.53,58.31,51.99,47.49,AMT,Real Estate
+2017-04-01,52.53,58.31,51.99,47.49,AMT,Real Estate
+2017-05-01,52.53,58.31,51.99,47.49,AMT,Real Estate
+2017-06-01,52.53,58.31,51.99,47.49,AMT,Real Estate
+2017-07-01,52.53,58.31,51.99,47.49,AMT,Real Estate
+2017-08-01,52.53,58.31,51.99,47.49,AMT,Real Estate
+2017-09-01,52.53,58.31,51.99,47.49,AMT,Real Estate
+2017-10-01,53.33,57.31,53.98,48.47,AMT,Real Estate
+2017-11-01,53.33,57.31,53.98,48.47,AMT,Real Estate
+2017-12-01,53.33,57.31,53.98,48.47,AMT,Real Estate
+2018-01-01,53.33,57.31,53.98,48.47,AMT,Real Estate
+2018-02-01,53.33,57.31,53.98,48.47,AMT,Real Estate
+2018-03-01,53.33,57.31,53.98,48.47,AMT,Real Estate
+2018-04-01,53.35,57.31,53.98,48.56,AMT,Real Estate
+2018-05-01,53.2,56.69,52.27,50.95,AMT,Real Estate
+2018-06-01,53.2,56.69,52.27,50.95,AMT,Real Estate
+2018-07-01,53.2,56.69,52.27,50.95,AMT,Real Estate
+2018-08-01,53.2,56.69,52.27,50.95,AMT,Real Estate
+2018-09-01,53.2,56.69,52.27,50.95,AMT,Real Estate
+2018-10-01,53.2,56.69,52.27,50.95,AMT,Real Estate
+2018-11-01,52.86,55.56,52.27,50.95,AMT,Real Estate
+2018-12-01,52.86,55.56,52.27,50.95,AMT,Real Estate
+2019-01-01,52.86,55.56,52.27,50.95,AMT,Real Estate
+2019-02-01,52.86,55.56,52.27,50.95,AMT,Real Estate
+2019-03-01,52.86,55.56,52.27,50.95,AMT,Real Estate
+2019-04-01,52.86,55.56,52.27,50.95,AMT,Real Estate
+2019-05-01,52.86,55.56,52.27,50.95,AMT,Real Estate
+2019-06-01,52.86,55.56,52.27,50.95,AMT,Real Estate
+2019-07-01,52.86,55.56,52.27,50.95,AMT,Real Estate
+2019-08-01,52.86,55.56,52.27,50.95,AMT,Real Estate
+2019-09-01,52.56,54.56,52.27,50.95,AMT,Real Estate
+2019-10-01,52.86,55.56,52.27,50.95,AMT,Real Estate
+2019-11-01,52.86,55.56,52.27,50.95,AMT,Real Estate
+2019-12-01,18.11,5.62,5.81,6.68,AMT,Real Estate
+2020-01-01,18.11,5.62,5.81,6.68,AMT,Real Estate
+2020-02-01,18.11,5.62,5.81,6.68,AMT,Real Estate
+2020-03-01,18.11,5.62,5.81,6.68,AMT,Real Estate
+2020-04-01,,,,,AMT,Real Estate
+2020-05-01,,,,,AMT,Real Estate
+2020-06-01,,,,,AMT,Real Estate
+2020-07-01,18.06,5.57,5.81,6.68,AMT,Real Estate
+2020-08-01,18.06,5.57,5.81,6.68,AMT,Real Estate
+2020-09-01,,,,,AMT,Real Estate
+2020-10-01,18.08,5.59,5.81,6.68,AMT,Real Estate
+2020-11-01,,,,,AMT,Real Estate
+2020-12-01,,,,,AMT,Real Estate
+2021-01-01,12.48,4.96,3.73,3.78,AMT,Real Estate
+2021-02-01,12.48,4.96,3.73,3.78,AMT,Real Estate
+2021-03-01,12.48,4.96,3.73,3.78,AMT,Real Estate
+2021-04-01,,,,,AMT,Real Estate
+2021-05-01,12.33,4.81,3.73,3.78,AMT,Real Estate
+2021-06-01,,,,,AMT,Real Estate
+2021-07-01,,,,,AMT,Real Estate
+2021-08-01,,,,,AMT,Real Estate
+2021-09-01,12.33,4.81,3.73,3.78,AMT,Real Estate
+2021-10-01,,,,,AMT,Real Estate
+2021-11-01,,,,,AMT,Real Estate
+2021-12-01,,,,,AMT,Real Estate
+2022-01-01,,,,,AMT,Real Estate
+2022-02-01,10.87,5.0,2.43,3.44,AMT,Real Estate
+2022-03-01,,,,,AMT,Real Estate
+2022-04-01,,,,,AMT,Real Estate
+2022-05-01,10.87,5.0,2.43,3.44,AMT,Real Estate
+2022-06-01,,,,,AMT,Real Estate
+2022-07-01,,,,,AMT,Real Estate
+2022-08-01,10.94,5.02,2.36,3.56,AMT,Real Estate
+2014-09-01,58.0,69.0,63.0,49.0,UNH,Healthcare
+2014-10-01,58.0,69.0,63.0,49.0,UNH,Healthcare
+2014-11-01,58.0,69.0,63.0,49.0,UNH,Healthcare
+2014-12-01,58.0,69.0,63.0,49.0,UNH,Healthcare
+2015-01-01,62.0,77.0,63.0,51.0,UNH,Healthcare
+2015-02-01,62.0,77.0,63.0,51.0,UNH,Healthcare
+2015-03-01,61.0,77.0,63.0,50.0,UNH,Healthcare
+2015-04-01,61.0,77.0,63.0,50.0,UNH,Healthcare
+2015-05-01,61.0,77.0,63.0,50.0,UNH,Healthcare
+2015-06-01,61.0,77.0,63.0,50.0,UNH,Healthcare
+2015-07-01,61.0,77.0,63.0,50.0,UNH,Healthcare
+2015-08-01,61.0,77.0,63.0,50.0,UNH,Healthcare
+2015-09-01,61.0,76.0,63.0,50.0,UNH,Healthcare
+2015-10-01,61.0,76.0,63.0,50.0,UNH,Healthcare
+2015-11-01,61.0,76.0,63.0,50.0,UNH,Healthcare
+2015-12-01,61.0,76.0,63.0,50.0,UNH,Healthcare
+2016-01-01,68.36,77.96,73.68,59.0,UNH,Healthcare
+2016-02-01,68.36,77.96,73.68,59.0,UNH,Healthcare
+2016-03-01,68.36,77.96,73.68,59.0,UNH,Healthcare
+2016-04-01,65.5,77.96,73.64,52.67,UNH,Healthcare
+2016-05-01,64.51,74.67,73.64,52.67,UNH,Healthcare
+2016-06-01,64.51,74.67,73.64,52.67,UNH,Healthcare
+2016-07-01,64.51,74.67,73.64,52.67,UNH,Healthcare
+2016-08-01,63.71,74.67,73.64,50.89,UNH,Healthcare
+2016-09-01,63.71,74.67,73.64,50.89,UNH,Healthcare
+2016-10-01,63.71,74.67,73.64,50.89,UNH,Healthcare
+2016-11-01,63.71,74.67,73.64,50.89,UNH,Healthcare
+2016-12-01,63.71,74.67,73.64,50.89,UNH,Healthcare
+2017-01-01,63.24,73.92,72.47,50.99,UNH,Healthcare
+2017-02-01,63.24,73.92,72.47,50.99,UNH,Healthcare
+2017-03-01,60.26,72.93,70.13,46.33,UNH,Healthcare
+2017-04-01,59.06,68.93,70.13,46.33,UNH,Healthcare
+2017-05-01,59.35,68.93,71.3,46.33,UNH,Healthcare
+2017-06-01,59.35,68.93,71.3,46.33,UNH,Healthcare
+2017-07-01,59.35,68.93,71.3,46.33,UNH,Healthcare
+2017-08-01,59.35,68.93,71.3,46.33,UNH,Healthcare
+2017-09-01,59.35,68.93,71.3,46.33,UNH,Healthcare
+2017-10-01,58.39,65.65,69.43,47.42,UNH,Healthcare
+2017-11-01,58.39,65.65,69.43,47.42,UNH,Healthcare
+2017-12-01,58.39,65.65,69.43,47.42,UNH,Healthcare
+2018-01-01,58.39,65.65,69.43,47.42,UNH,Healthcare
+2018-02-01,58.83,66.15,70.6,47.42,UNH,Healthcare
+2018-03-01,58.83,66.15,70.6,47.42,UNH,Healthcare
+2018-04-01,58.83,66.15,70.6,47.42,UNH,Healthcare
+2018-05-01,62.31,67.14,74.1,52.55,UNH,Healthcare
+2018-06-01,62.31,67.14,74.1,52.55,UNH,Healthcare
+2018-07-01,62.31,67.14,74.1,52.55,UNH,Healthcare
+2018-08-01,62.31,67.14,74.1,52.55,UNH,Healthcare
+2018-09-01,62.31,67.14,74.1,52.55,UNH,Healthcare
+2018-10-01,62.91,69.13,74.1,52.55,UNH,Healthcare
+2018-11-01,62.55,67.94,74.1,52.55,UNH,Healthcare
+2018-12-01,62.55,67.94,74.1,52.55,UNH,Healthcare
+2019-01-01,62.55,67.94,74.1,52.55,UNH,Healthcare
+2019-02-01,62.55,67.94,74.1,52.55,UNH,Healthcare
+2019-03-01,62.55,67.94,74.1,52.55,UNH,Healthcare
+2019-04-01,62.55,67.94,74.1,52.55,UNH,Healthcare
+2019-05-01,62.55,67.94,74.1,52.55,UNH,Healthcare
+2019-06-01,62.55,67.94,74.1,52.55,UNH,Healthcare
+2019-07-01,63.41,67.94,73.63,54.7,UNH,Healthcare
+2019-08-01,63.41,67.94,73.63,54.7,UNH,Healthcare
+2019-09-01,63.41,67.94,73.63,54.7,UNH,Healthcare
+2019-10-01,63.41,67.94,73.63,54.7,UNH,Healthcare
+2019-11-01,63.26,67.44,73.63,54.7,UNH,Healthcare
+2019-12-01,20.82,6.05,0.03,14.74,UNH,Healthcare
+2020-01-01,20.82,6.05,0.03,14.74,UNH,Healthcare
+2020-02-01,20.82,6.05,0.03,14.74,UNH,Healthcare
+2020-03-01,20.93,6.05,0.03,14.85,UNH,Healthcare
+2020-04-01,,,,,UNH,Healthcare
+2020-05-01,,,,,UNH,Healthcare
+2020-06-01,,,,,UNH,Healthcare
+2020-07-01,20.79,5.91,0.03,14.85,UNH,Healthcare
+2020-08-01,20.79,5.91,0.03,14.85,UNH,Healthcare
+2020-09-01,,,,,UNH,Healthcare
+2020-10-01,21.15,5.76,0.03,15.36,UNH,Healthcare
+2020-11-01,,,,,UNH,Healthcare
+2020-12-01,,,,,UNH,Healthcare
+2021-01-01,21.29,5.87,0.03,15.39,UNH,Healthcare
+2021-02-01,21.29,5.87,0.03,15.39,UNH,Healthcare
+2021-03-01,21.29,5.87,0.03,15.39,UNH,Healthcare
+2021-04-01,,,,,UNH,Healthcare
+2021-05-01,20.87,5.45,0.03,15.39,UNH,Healthcare
+2021-06-01,,,,,UNH,Healthcare
+2021-07-01,,,,,UNH,Healthcare
+2021-08-01,,,,,UNH,Healthcare
+2021-09-01,20.19,5.91,0.03,14.23,UNH,Healthcare
+2021-10-01,,,,,UNH,Healthcare
+2021-11-01,,,,,UNH,Healthcare
+2021-12-01,,,,,UNH,Healthcare
+2022-01-01,,,,,UNH,Healthcare
+2022-02-01,17.44,5.89,0.03,11.52,UNH,Healthcare
+2022-03-01,,,,,UNH,Healthcare
+2022-04-01,,,,,UNH,Healthcare
+2022-05-01,17.54,5.89,0.03,11.62,UNH,Healthcare
+2022-06-01,,,,,UNH,Healthcare
+2022-07-01,,,,,UNH,Healthcare
+2022-08-01,17.54,5.89,0.03,11.62,UNH,Healthcare
+2014-09-01,66.0,71.0,82.0,53.0,VZ,Telecommunication Services
+2014-10-01,67.0,71.0,81.0,58.0,VZ,Telecommunication Services
+2014-11-01,68.0,71.0,80.0,58.0,VZ,Telecommunication Services
+2014-12-01,68.0,71.0,80.0,58.0,VZ,Telecommunication Services
+2015-01-01,69.0,73.0,80.0,58.0,VZ,Telecommunication Services
+2015-02-01,69.0,73.0,80.0,58.0,VZ,Telecommunication Services
+2015-03-01,68.0,73.0,80.0,58.0,VZ,Telecommunication Services
+2015-04-01,68.0,73.0,80.0,58.0,VZ,Telecommunication Services
+2015-05-01,68.0,73.0,80.0,58.0,VZ,Telecommunication Services
+2015-06-01,68.0,73.0,80.0,58.0,VZ,Telecommunication Services
+2015-07-01,68.0,73.0,80.0,58.0,VZ,Telecommunication Services
+2015-08-01,68.0,73.0,80.0,58.0,VZ,Telecommunication Services
+2015-09-01,67.0,73.0,80.0,56.0,VZ,Telecommunication Services
+2015-10-01,67.0,73.0,79.0,56.0,VZ,Telecommunication Services
+2015-11-01,67.0,73.0,79.0,56.0,VZ,Telecommunication Services
+2015-12-01,67.0,73.0,80.0,56.0,VZ,Telecommunication Services
+2016-01-01,67.28,73.08,79.54,55.88,VZ,Telecommunication Services
+2016-02-01,67.28,73.08,79.54,55.88,VZ,Telecommunication Services
+2016-03-01,67.28,73.08,79.54,55.88,VZ,Telecommunication Services
+2016-04-01,66.36,73.09,80.23,53.35,VZ,Telecommunication Services
+2016-05-01,66.36,73.09,80.23,53.35,VZ,Telecommunication Services
+2016-06-01,66.36,73.09,80.23,53.35,VZ,Telecommunication Services
+2016-07-01,65.13,70.05,78.64,53.35,VZ,Telecommunication Services
+2016-08-01,65.13,70.05,78.64,53.35,VZ,Telecommunication Services
+2016-09-01,65.13,70.05,78.64,53.35,VZ,Telecommunication Services
+2016-10-01,65.13,70.05,78.64,53.35,VZ,Telecommunication Services
+2016-11-01,65.13,70.05,78.64,53.35,VZ,Telecommunication Services
+2016-12-01,65.13,70.05,78.64,53.35,VZ,Telecommunication Services
+2017-01-01,66.1,70.05,78.64,55.52,VZ,Telecommunication Services
+2017-02-01,66.1,70.05,78.64,55.52,VZ,Telecommunication Services
+2017-03-01,66.1,70.05,78.64,55.52,VZ,Telecommunication Services
+2017-04-01,66.1,70.05,78.64,55.52,VZ,Telecommunication Services
+2017-05-01,66.65,70.05,80.47,55.52,VZ,Telecommunication Services
+2017-06-01,68.14,77.25,81.84,53.91,VZ,Telecommunication Services
+2017-07-01,66.65,70.05,80.47,55.52,VZ,Telecommunication Services
+2017-08-01,66.89,77.25,77.7,53.91,VZ,Telecommunication Services
+2017-09-01,67.21,77.25,78.34,54.19,VZ,Telecommunication Services
+2017-10-01,68.53,76.85,81.98,54.91,VZ,Telecommunication Services
+2017-11-01,68.53,76.85,81.98,54.91,VZ,Telecommunication Services
+2017-12-01,68.53,76.85,81.98,54.91,VZ,Telecommunication Services
+2018-01-01,68.53,76.85,81.98,54.91,VZ,Telecommunication Services
+2018-02-01,68.53,76.85,81.98,54.91,VZ,Telecommunication Services
+2018-03-01,68.53,76.85,81.98,54.91,VZ,Telecommunication Services
+2018-04-01,68.53,76.85,81.98,54.91,VZ,Telecommunication Services
+2018-05-01,69.12,76.85,82.47,55.9,VZ,Telecommunication Services
+2018-06-01,69.12,76.85,82.47,55.9,VZ,Telecommunication Services
+2018-07-01,69.12,76.85,82.47,55.9,VZ,Telecommunication Services
+2018-08-01,69.12,76.85,82.47,55.9,VZ,Telecommunication Services
+2018-09-01,69.12,76.85,82.47,55.9,VZ,Telecommunication Services
+2018-10-01,69.65,76.85,82.47,57.09,VZ,Telecommunication Services
+2018-11-01,69.45,76.05,82.47,57.09,VZ,Telecommunication Services
+2018-12-01,69.42,76.05,82.47,57.02,VZ,Telecommunication Services
+2019-01-01,69.42,76.05,82.47,57.02,VZ,Telecommunication Services
+2019-02-01,69.42,76.05,82.47,57.02,VZ,Telecommunication Services
+2019-03-01,69.42,76.05,82.47,57.02,VZ,Telecommunication Services
+2019-04-01,69.72,76.05,83.44,57.02,VZ,Telecommunication Services
+2019-05-01,73.1,77.55,84.89,62.74,VZ,Telecommunication Services
+2019-06-01,73.1,77.55,84.89,62.74,VZ,Telecommunication Services
+2019-07-01,73.1,77.55,84.89,62.74,VZ,Telecommunication Services
+2019-08-01,73.32,78.45,84.89,62.74,VZ,Telecommunication Services
+2019-09-01,73.32,78.45,84.89,62.74,VZ,Telecommunication Services
+2019-10-01,73.92,78.45,84.89,64.07,VZ,Telecommunication Services
+2019-11-01,73.92,78.45,84.89,64.07,VZ,Telecommunication Services
+2019-12-01,19.78,6.4,1.86,11.52,VZ,Telecommunication Services
+2020-01-01,19.78,6.4,1.86,11.52,VZ,Telecommunication Services
+2020-02-01,19.78,6.4,1.86,11.52,VZ,Telecommunication Services
+2020-03-01,19.78,6.4,1.86,11.52,VZ,Telecommunication Services
+2020-04-01,,,,,VZ,Telecommunication Services
+2020-05-01,,,,,VZ,Telecommunication Services
+2020-06-01,,,,,VZ,Telecommunication Services
+2020-07-01,20.22,6.43,2.27,11.52,VZ,Telecommunication Services
+2020-08-01,20.37,6.43,2.25,11.68,VZ,Telecommunication Services
+2020-09-01,,,,,VZ,Telecommunication Services
+2020-10-01,18.09,6.18,1.71,10.2,VZ,Telecommunication Services
+2020-11-01,,,,,VZ,Telecommunication Services
+2020-12-01,,,,,VZ,Telecommunication Services
+2021-01-01,18.09,6.18,1.71,10.2,VZ,Telecommunication Services
+2021-02-01,18.09,6.18,1.71,10.2,VZ,Telecommunication Services
+2021-03-01,18.09,6.18,1.71,10.2,VZ,Telecommunication Services
+2021-04-01,,,,,VZ,Telecommunication Services
+2021-05-01,18.09,6.18,1.71,10.2,VZ,Telecommunication Services
+2021-06-01,,,,,VZ,Telecommunication Services
+2021-07-01,,,,,VZ,Telecommunication Services
+2021-08-01,,,,,VZ,Telecommunication Services
+2021-09-01,17.91,6.0,1.71,10.2,VZ,Telecommunication Services
+2021-10-01,,,,,VZ,Telecommunication Services
+2021-11-01,,,,,VZ,Telecommunication Services
+2021-12-01,,,,,VZ,Telecommunication Services
+2022-01-01,,,,,VZ,Telecommunication Services
+2022-02-01,16.7,5.7,1.72,9.28,VZ,Telecommunication Services
+2022-03-01,,,,,VZ,Telecommunication Services
+2022-04-01,,,,,VZ,Telecommunication Services
+2022-05-01,18.3,5.51,3.88,8.92,VZ,Telecommunication Services
+2022-06-01,,,,,VZ,Telecommunication Services
+2022-07-01,,,,,VZ,Telecommunication Services
+2022-08-01,18.48,5.69,3.88,8.92,VZ,Telecommunication Services
+2018-10-01,49.33,48.7,49.44,51.49,ELV,Canada Fund Emerging Markets Equity
+2014-09-01,66.0,74.0,60.0,66.0,TGT,Retailing
+2014-10-01,66.0,74.0,60.0,66.0,TGT,Retailing
+2014-11-01,66.0,74.0,60.0,66.0,TGT,Retailing
+2014-12-01,66.0,74.0,60.0,66.0,TGT,Retailing
+2015-01-01,66.0,74.0,60.0,66.0,TGT,Retailing
+2015-02-01,67.0,75.0,60.0,69.0,TGT,Retailing
+2015-03-01,66.0,75.0,60.0,66.0,TGT,Retailing
+2015-04-01,66.0,75.0,60.0,66.0,TGT,Retailing
+2015-05-01,66.0,75.0,60.0,66.0,TGT,Retailing
+2015-06-01,66.0,75.0,60.0,66.0,TGT,Retailing
+2015-07-01,66.0,75.0,60.0,66.0,TGT,Retailing
+2015-08-01,69.0,75.0,68.0,66.0,TGT,Retailing
+2015-09-01,69.0,75.0,68.0,66.0,TGT,Retailing
+2015-10-01,69.0,75.0,68.0,66.0,TGT,Retailing
+2015-11-01,69.0,75.0,68.0,66.0,TGT,Retailing
+2015-12-01,69.0,75.0,68.0,66.0,TGT,Retailing
+2016-01-01,69.1,75.29,67.88,66.31,TGT,Retailing
+2016-02-01,69.1,75.29,67.88,66.31,TGT,Retailing
+2016-03-01,69.1,75.29,67.88,66.31,TGT,Retailing
+2016-04-01,63.92,75.29,67.86,53.36,TGT,Retailing
+2016-05-01,62.97,75.29,67.86,50.98,TGT,Retailing
+2016-06-01,64.55,75.29,67.86,54.94,TGT,Retailing
+2016-07-01,64.27,75.29,67.05,54.94,TGT,Retailing
+2016-08-01,64.27,75.29,67.05,54.94,TGT,Retailing
+2016-09-01,64.27,75.29,67.05,54.94,TGT,Retailing
+2016-10-01,64.27,75.29,67.05,54.94,TGT,Retailing
+2016-11-01,64.27,75.29,67.05,54.94,TGT,Retailing
+2016-12-01,63.42,71.89,67.05,54.94,TGT,Retailing
+2017-01-01,63.19,71.89,66.37,54.96,TGT,Retailing
+2017-02-01,63.19,71.89,66.37,54.96,TGT,Retailing
+2017-03-01,63.19,71.89,66.37,54.96,TGT,Retailing
+2017-04-01,63.19,71.89,66.37,54.96,TGT,Retailing
+2017-05-01,63.46,71.89,67.15,54.96,TGT,Retailing
+2017-06-01,63.46,71.89,67.15,54.96,TGT,Retailing
+2017-07-01,63.46,71.89,67.15,54.96,TGT,Retailing
+2017-08-01,63.05,71.89,65.98,54.96,TGT,Retailing
+2017-09-01,63.05,71.89,65.98,54.96,TGT,Retailing
+2017-10-01,63.31,69.79,66.13,56.79,TGT,Retailing
+2017-11-01,63.31,69.79,66.13,56.79,TGT,Retailing
+2017-12-01,63.31,69.79,66.13,56.79,TGT,Retailing
+2018-01-01,63.31,69.79,66.13,56.79,TGT,Retailing
+2018-02-01,63.31,69.79,66.13,56.79,TGT,Retailing
+2018-03-01,63.31,69.79,66.13,56.79,TGT,Retailing
+2018-04-01,63.31,69.79,66.13,56.79,TGT,Retailing
+2018-05-01,63.31,69.79,66.13,56.79,TGT,Retailing
+2018-06-01,63.31,69.79,66.13,56.79,TGT,Retailing
+2018-07-01,63.31,69.79,66.13,56.79,TGT,Retailing
+2018-08-01,61.51,69.79,66.13,52.29,TGT,Retailing
+2018-09-01,61.51,69.79,66.13,52.29,TGT,Retailing
+2018-10-01,59.95,68.79,66.91,48.34,TGT,Retailing
+2018-11-01,59.65,67.59,66.91,48.34,TGT,Retailing
+2018-12-01,59.55,67.19,66.91,48.34,TGT,Retailing
+2019-01-01,58.93,68.49,64.2,48.34,TGT,Retailing
+2019-02-01,58.93,68.49,64.2,48.34,TGT,Retailing
+2019-03-01,58.93,68.49,64.2,48.34,TGT,Retailing
+2019-04-01,58.93,68.49,64.2,48.34,TGT,Retailing
+2019-05-01,58.93,68.49,64.2,48.34,TGT,Retailing
+2019-06-01,58.93,68.49,64.2,48.34,TGT,Retailing
+2019-07-01,58.93,68.49,64.2,48.34,TGT,Retailing
+2019-08-01,58.93,68.49,64.2,48.34,TGT,Retailing
+2019-09-01,58.76,65.45,64.2,49.83,TGT,Retailing
+2019-10-01,58.76,65.45,64.2,49.83,TGT,Retailing
+2019-11-01,61.13,64.95,69.61,51.33,TGT,Retailing
+2019-12-01,58.65,65.15,66.81,47.44,TGT,Retailing
+2020-01-01,16.11,5.37,1.9,8.84,TGT,Retailing
+2020-02-01,15.03,5.11,1.9,8.03,TGT,Retailing
+2020-03-01,15.23,5.11,1.9,8.23,TGT,Retailing
+2020-04-01,,,,,TGT,Retailing
+2020-05-01,,,,,TGT,Retailing
+2020-06-01,,,,,TGT,Retailing
+2020-07-01,15.35,5.11,2.01,8.23,TGT,Retailing
+2020-08-01,15.35,5.11,2.01,8.23,TGT,Retailing
+2020-09-01,,,,,TGT,Retailing
+2020-10-01,15.37,5.13,2.01,8.23,TGT,Retailing
+2020-11-01,,,,,TGT,Retailing
+2020-12-01,,,,,TGT,Retailing
+2021-01-01,14.82,5.34,1.85,7.63,TGT,Retailing
+2021-02-01,14.82,5.34,1.85,7.63,TGT,Retailing
+2021-03-01,15.04,5.34,2.08,7.63,TGT,Retailing
+2021-04-01,,,,,TGT,Retailing
+2021-05-01,15.04,5.34,2.08,7.63,TGT,Retailing
+2021-06-01,,,,,TGT,Retailing
+2021-07-01,,,,,TGT,Retailing
+2021-08-01,,,,,TGT,Retailing
+2021-09-01,15.04,5.34,2.08,7.63,TGT,Retailing
+2021-10-01,,,,,TGT,Retailing
+2021-11-01,,,,,TGT,Retailing
+2021-12-01,,,,,TGT,Retailing
+2022-01-01,,,,,TGT,Retailing
+2022-02-01,14.79,5.06,2.17,7.56,TGT,Retailing
+2022-03-01,,,,,TGT,Retailing
+2022-04-01,,,,,TGT,Retailing
+2022-05-01,14.79,5.06,2.17,7.56,TGT,Retailing
+2022-06-01,,,,,TGT,Retailing
+2022-07-01,,,,,TGT,Retailing
+2022-08-01,14.72,5.06,2.04,7.63,TGT,Retailing
+2014-09-01,77.0,76.0,76.0,78.0,PEP,Food Products
+2014-10-01,77.0,76.0,76.0,78.0,PEP,Food Products
+2014-11-01,77.0,76.0,76.0,78.0,PEP,Food Products
+2014-12-01,77.0,76.0,76.0,78.0,PEP,Food Products
+2015-01-01,77.0,82.0,76.0,76.0,PEP,Food Products
+2015-02-01,77.0,82.0,76.0,76.0,PEP,Food Products
+2015-03-01,75.0,82.0,73.0,73.0,PEP,Food Products
+2015-04-01,75.0,82.0,73.0,73.0,PEP,Food Products
+2015-05-01,75.0,82.0,73.0,73.0,PEP,Food Products
+2015-06-01,75.0,82.0,73.0,73.0,PEP,Food Products
+2015-07-01,75.0,82.0,73.0,73.0,PEP,Food Products
+2015-08-01,74.0,82.0,71.0,73.0,PEP,Food Products
+2015-09-01,74.0,82.0,71.0,73.0,PEP,Food Products
+2015-10-01,74.0,82.0,71.0,73.0,PEP,Food Products
+2015-11-01,74.0,82.0,71.0,73.0,PEP,Food Products
+2015-12-01,74.0,82.0,71.0,73.0,PEP,Food Products
+2016-01-01,74.3,81.71,70.64,72.88,PEP,Food Products
+2016-02-01,72.98,76.42,70.64,72.88,PEP,Food Products
+2016-03-01,72.98,76.42,70.64,72.88,PEP,Food Products
+2016-04-01,71.92,76.45,71.0,69.88,PEP,Food Products
+2016-05-01,71.92,76.45,71.0,69.88,PEP,Food Products
+2016-06-01,71.92,76.45,71.0,69.88,PEP,Food Products
+2016-07-01,71.92,76.45,71.0,69.88,PEP,Food Products
+2016-08-01,70.13,75.31,71.0,66.13,PEP,Food Products
+2016-09-01,68.43,75.51,69.12,63.41,PEP,Food Products
+2016-10-01,68.43,75.51,69.12,63.41,PEP,Food Products
+2016-11-01,68.43,75.51,69.12,63.41,PEP,Food Products
+2016-12-01,68.43,75.51,69.12,63.41,PEP,Food Products
+2017-01-01,70.07,75.58,75.38,61.98,PEP,Food Products
+2017-02-01,70.07,75.58,75.38,61.98,PEP,Food Products
+2017-03-01,70.07,75.58,75.38,61.98,PEP,Food Products
+2017-04-01,70.07,75.58,75.38,61.98,PEP,Food Products
+2017-05-01,70.38,75.58,76.26,61.98,PEP,Food Products
+2017-06-01,70.38,75.58,76.26,61.98,PEP,Food Products
+2017-07-01,70.38,75.58,76.26,61.98,PEP,Food Products
+2017-08-01,71.91,75.58,77.51,64.71,PEP,Food Products
+2017-09-01,71.91,75.58,77.51,64.71,PEP,Food Products
+2017-10-01,72.16,72.48,79.09,65.89,PEP,Food Products
+2017-11-01,72.16,72.48,79.09,65.89,PEP,Food Products
+2017-12-01,72.3,73.04,79.09,65.89,PEP,Food Products
+2018-01-01,72.3,73.04,79.09,65.89,PEP,Food Products
+2018-02-01,72.3,73.04,79.09,65.89,PEP,Food Products
+2018-03-01,72.3,73.04,79.09,65.89,PEP,Food Products
+2018-04-01,72.3,73.04,79.09,65.89,PEP,Food Products
+2018-05-01,72.3,73.04,79.09,65.89,PEP,Food Products
+2018-06-01,71.84,73.04,79.09,64.75,PEP,Food Products
+2018-07-01,67.27,74.7,71.46,58.95,PEP,Food Products
+2018-08-01,67.27,74.7,71.46,58.95,PEP,Food Products
+2018-09-01,67.27,74.7,71.46,58.95,PEP,Food Products
+2018-10-01,67.27,74.7,71.46,58.95,PEP,Food Products
+2018-11-01,67.05,73.81,71.46,58.95,PEP,Food Products
+2018-12-01,67.05,73.81,71.46,58.95,PEP,Food Products
+2019-01-01,67.05,73.81,71.46,58.95,PEP,Food Products
+2019-02-01,67.05,73.81,71.46,58.95,PEP,Food Products
+2019-03-01,67.05,73.81,71.46,58.95,PEP,Food Products
+2019-04-01,67.05,73.81,71.46,58.95,PEP,Food Products
+2019-05-01,67.05,73.81,71.46,58.95,PEP,Food Products
+2019-06-01,67.07,73.92,71.46,58.95,PEP,Food Products
+2019-07-01,67.52,73.92,72.75,58.95,PEP,Food Products
+2019-08-01,67.52,73.92,72.75,58.95,PEP,Food Products
+2019-09-01,67.52,73.92,72.75,58.95,PEP,Food Products
+2019-10-01,67.52,73.92,72.75,58.95,PEP,Food Products
+2019-11-01,71.71,73.92,74.37,67.99,PEP,Food Products
+2019-12-01,21.95,4.87,7.27,9.8,PEP,Food Products
+2020-01-01,21.95,4.87,7.27,9.8,PEP,Food Products
+2020-02-01,21.95,4.87,7.27,9.8,PEP,Food Products
+2020-03-01,21.95,4.87,7.27,9.8,PEP,Food Products
+2020-04-01,,,,,PEP,Food Products
+2020-05-01,,,,,PEP,Food Products
+2020-06-01,,,,,PEP,Food Products
+2020-07-01,22.17,4.94,7.43,9.8,PEP,Food Products
+2020-08-01,22.17,4.94,7.43,9.8,PEP,Food Products
+2020-09-01,,,,,PEP,Food Products
+2020-10-01,21.64,4.62,7.22,9.8,PEP,Food Products
+2020-11-01,,,,,PEP,Food Products
+2020-12-01,,,,,PEP,Food Products
+2021-01-01,17.57,4.63,5.15,7.79,PEP,Food Products
+2021-02-01,17.57,4.63,5.15,7.79,PEP,Food Products
+2021-03-01,17.76,4.82,5.15,7.79,PEP,Food Products
+2021-04-01,,,,,PEP,Food Products
+2021-05-01,17.68,4.82,5.07,7.79,PEP,Food Products
+2021-06-01,,,,,PEP,Food Products
+2021-07-01,,,,,PEP,Food Products
+2021-08-01,,,,,PEP,Food Products
+2021-09-01,17.41,4.55,5.07,7.79,PEP,Food Products
+2021-10-01,,,,,PEP,Food Products
+2021-11-01,,,,,PEP,Food Products
+2021-12-01,,,,,PEP,Food Products
+2022-01-01,,,,,PEP,Food Products
+2022-02-01,16.01,4.55,4.91,6.55,PEP,Food Products
+2022-03-01,,,,,PEP,Food Products
+2022-04-01,,,,,PEP,Food Products
+2022-05-01,16.01,4.55,4.91,6.55,PEP,Food Products
+2022-06-01,,,,,PEP,Food Products
+2022-07-01,,,,,PEP,Food Products
+2022-08-01,15.94,4.48,4.91,6.55,PEP,Food Products
+2014-09-01,61.0,54.0,74.0,50.0,AMT,Real Estate
+2014-10-01,61.0,54.0,74.0,50.0,AMT,Real Estate
+2014-11-01,61.0,54.0,74.0,50.0,AMT,Real Estate
+2014-12-01,61.0,54.0,74.0,50.0,AMT,Real Estate
+2015-01-01,66.0,67.0,76.0,51.0,AMT,Real Estate
+2015-02-01,66.0,67.0,76.0,51.0,AMT,Real Estate
+2015-03-01,66.0,67.0,76.0,51.0,AMT,Real Estate
+2015-04-01,66.0,67.0,76.0,51.0,AMT,Real Estate
+2015-05-01,66.0,67.0,76.0,51.0,AMT,Real Estate
+2015-06-01,66.0,67.0,76.0,51.0,AMT,Real Estate
+2015-07-01,66.0,67.0,76.0,51.0,AMT,Real Estate
+2015-08-01,66.0,67.0,76.0,51.0,AMT,Real Estate
+2015-09-01,66.0,67.0,76.0,51.0,AMT,Real Estate
+2015-10-01,66.0,67.0,76.0,51.0,AMT,Real Estate
+2015-11-01,66.0,67.0,76.0,51.0,AMT,Real Estate
+2015-12-01,68.0,68.0,79.0,55.0,AMT,Real Estate
+2016-01-01,68.44,68.06,78.87,54.91,AMT,Real Estate
+2016-02-01,68.44,68.06,78.87,54.91,AMT,Real Estate
+2016-03-01,68.44,68.06,78.87,54.91,AMT,Real Estate
+2016-04-01,65.33,62.46,78.88,50.13,AMT,Real Estate
+2016-05-01,65.33,62.46,78.88,50.13,AMT,Real Estate
+2016-06-01,65.33,62.46,78.88,50.13,AMT,Real Estate
+2016-07-01,65.33,62.46,78.88,50.13,AMT,Real Estate
+2016-08-01,65.33,62.46,78.88,50.13,AMT,Real Estate
+2016-09-01,65.33,62.46,78.88,50.13,AMT,Real Estate
+2016-10-01,65.33,62.46,78.88,50.13,AMT,Real Estate
+2016-11-01,65.33,62.46,78.88,50.13,AMT,Real Estate
+2016-12-01,65.33,62.46,78.88,50.13,AMT,Real Estate
+2017-01-01,53.13,60.31,51.99,47.49,AMT,Real Estate
+2017-02-01,53.13,60.31,51.99,47.49,AMT,Real Estate
+2017-03-01,52.53,58.31,51.99,47.49,AMT,Real Estate
+2017-04-01,52.53,58.31,51.99,47.49,AMT,Real Estate
+2017-05-01,52.53,58.31,51.99,47.49,AMT,Real Estate
+2017-06-01,52.53,58.31,51.99,47.49,AMT,Real Estate
+2017-07-01,52.53,58.31,51.99,47.49,AMT,Real Estate
+2017-08-01,52.53,58.31,51.99,47.49,AMT,Real Estate
+2017-09-01,52.53,58.31,51.99,47.49,AMT,Real Estate
+2017-10-01,53.33,57.31,53.98,48.47,AMT,Real Estate
+2017-11-01,53.33,57.31,53.98,48.47,AMT,Real Estate
+2017-12-01,53.33,57.31,53.98,48.47,AMT,Real Estate
+2018-01-01,53.33,57.31,53.98,48.47,AMT,Real Estate
+2018-02-01,53.33,57.31,53.98,48.47,AMT,Real Estate
+2018-03-01,53.33,57.31,53.98,48.47,AMT,Real Estate
+2018-04-01,53.35,57.31,53.98,48.56,AMT,Real Estate
+2018-05-01,53.2,56.69,52.27,50.95,AMT,Real Estate
+2018-06-01,53.2,56.69,52.27,50.95,AMT,Real Estate
+2018-07-01,53.2,56.69,52.27,50.95,AMT,Real Estate
+2018-08-01,53.2,56.69,52.27,50.95,AMT,Real Estate
+2018-09-01,53.2,56.69,52.27,50.95,AMT,Real Estate
+2018-10-01,53.2,56.69,52.27,50.95,AMT,Real Estate
+2018-11-01,52.86,55.56,52.27,50.95,AMT,Real Estate
+2018-12-01,52.86,55.56,52.27,50.95,AMT,Real Estate
+2019-01-01,52.86,55.56,52.27,50.95,AMT,Real Estate
+2019-02-01,52.86,55.56,52.27,50.95,AMT,Real Estate
+2019-03-01,52.86,55.56,52.27,50.95,AMT,Real Estate
+2019-04-01,52.86,55.56,52.27,50.95,AMT,Real Estate
+2019-05-01,52.86,55.56,52.27,50.95,AMT,Real Estate
+2019-06-01,52.86,55.56,52.27,50.95,AMT,Real Estate
+2019-07-01,52.86,55.56,52.27,50.95,AMT,Real Estate
+2019-08-01,52.86,55.56,52.27,50.95,AMT,Real Estate
+2019-09-01,52.56,54.56,52.27,50.95,AMT,Real Estate
+2019-10-01,52.86,55.56,52.27,50.95,AMT,Real Estate
+2019-11-01,52.86,55.56,52.27,50.95,AMT,Real Estate
+2019-12-01,18.11,5.62,5.81,6.68,AMT,Real Estate
+2020-01-01,18.11,5.62,5.81,6.68,AMT,Real Estate
+2020-02-01,18.11,5.62,5.81,6.68,AMT,Real Estate
+2020-03-01,18.11,5.62,5.81,6.68,AMT,Real Estate
+2020-04-01,,,,,AMT,Real Estate
+2020-05-01,,,,,AMT,Real Estate
+2020-06-01,,,,,AMT,Real Estate
+2020-07-01,18.06,5.57,5.81,6.68,AMT,Real Estate
+2020-08-01,18.06,5.57,5.81,6.68,AMT,Real Estate
+2020-09-01,,,,,AMT,Real Estate
+2020-10-01,18.08,5.59,5.81,6.68,AMT,Real Estate
+2020-11-01,,,,,AMT,Real Estate
+2020-12-01,,,,,AMT,Real Estate
+2021-01-01,12.48,4.96,3.73,3.78,AMT,Real Estate
+2021-02-01,12.48,4.96,3.73,3.78,AMT,Real Estate
+2021-03-01,12.48,4.96,3.73,3.78,AMT,Real Estate
+2021-04-01,,,,,AMT,Real Estate
+2021-05-01,12.33,4.81,3.73,3.78,AMT,Real Estate
+2021-06-01,,,,,AMT,Real Estate
+2021-07-01,,,,,AMT,Real Estate
+2021-08-01,,,,,AMT,Real Estate
+2021-09-01,12.33,4.81,3.73,3.78,AMT,Real Estate
+2021-10-01,,,,,AMT,Real Estate
+2021-11-01,,,,,AMT,Real Estate
+2021-12-01,,,,,AMT,Real Estate
+2022-01-01,,,,,AMT,Real Estate
+2022-02-01,10.87,5.0,2.43,3.44,AMT,Real Estate
+2022-03-01,,,,,AMT,Real Estate
+2022-04-01,,,,,AMT,Real Estate
+2022-05-01,10.87,5.0,2.43,3.44,AMT,Real Estate
+2022-06-01,,,,,AMT,Real Estate
+2022-07-01,,,,,AMT,Real Estate
+2022-08-01,10.94,5.02,2.36,3.56,AMT,Real Estate
+2014-09-01,58.0,69.0,63.0,49.0,UNH,Healthcare
+2014-10-01,58.0,69.0,63.0,49.0,UNH,Healthcare
+2014-11-01,58.0,69.0,63.0,49.0,UNH,Healthcare
+2014-12-01,58.0,69.0,63.0,49.0,UNH,Healthcare
+2015-01-01,62.0,77.0,63.0,51.0,UNH,Healthcare
+2015-02-01,62.0,77.0,63.0,51.0,UNH,Healthcare
+2015-03-01,61.0,77.0,63.0,50.0,UNH,Healthcare
+2015-04-01,61.0,77.0,63.0,50.0,UNH,Healthcare
+2015-05-01,61.0,77.0,63.0,50.0,UNH,Healthcare
+2015-06-01,61.0,77.0,63.0,50.0,UNH,Healthcare
+2015-07-01,61.0,77.0,63.0,50.0,UNH,Healthcare
+2015-08-01,61.0,77.0,63.0,50.0,UNH,Healthcare
+2015-09-01,61.0,76.0,63.0,50.0,UNH,Healthcare
+2015-10-01,61.0,76.0,63.0,50.0,UNH,Healthcare
+2015-11-01,61.0,76.0,63.0,50.0,UNH,Healthcare
+2015-12-01,61.0,76.0,63.0,50.0,UNH,Healthcare
+2016-01-01,68.36,77.96,73.68,59.0,UNH,Healthcare
+2016-02-01,68.36,77.96,73.68,59.0,UNH,Healthcare
+2016-03-01,68.36,77.96,73.68,59.0,UNH,Healthcare
+2016-04-01,65.5,77.96,73.64,52.67,UNH,Healthcare
+2016-05-01,64.51,74.67,73.64,52.67,UNH,Healthcare
+2016-06-01,64.51,74.67,73.64,52.67,UNH,Healthcare
+2016-07-01,64.51,74.67,73.64,52.67,UNH,Healthcare
+2016-08-01,63.71,74.67,73.64,50.89,UNH,Healthcare
+2016-09-01,63.71,74.67,73.64,50.89,UNH,Healthcare
+2016-10-01,63.71,74.67,73.64,50.89,UNH,Healthcare
+2016-11-01,63.71,74.67,73.64,50.89,UNH,Healthcare
+2016-12-01,63.71,74.67,73.64,50.89,UNH,Healthcare
+2017-01-01,63.24,73.92,72.47,50.99,UNH,Healthcare
+2017-02-01,63.24,73.92,72.47,50.99,UNH,Healthcare
+2017-03-01,60.26,72.93,70.13,46.33,UNH,Healthcare
+2017-04-01,59.06,68.93,70.13,46.33,UNH,Healthcare
+2017-05-01,59.35,68.93,71.3,46.33,UNH,Healthcare
+2017-06-01,59.35,68.93,71.3,46.33,UNH,Healthcare
+2017-07-01,59.35,68.93,71.3,46.33,UNH,Healthcare
+2017-08-01,59.35,68.93,71.3,46.33,UNH,Healthcare
+2017-09-01,59.35,68.93,71.3,46.33,UNH,Healthcare
+2017-10-01,58.39,65.65,69.43,47.42,UNH,Healthcare
+2017-11-01,58.39,65.65,69.43,47.42,UNH,Healthcare
+2017-12-01,58.39,65.65,69.43,47.42,UNH,Healthcare
+2018-01-01,58.39,65.65,69.43,47.42,UNH,Healthcare
+2018-02-01,58.83,66.15,70.6,47.42,UNH,Healthcare
+2018-03-01,58.83,66.15,70.6,47.42,UNH,Healthcare
+2018-04-01,58.83,66.15,70.6,47.42,UNH,Healthcare
+2018-05-01,62.31,67.14,74.1,52.55,UNH,Healthcare
+2018-06-01,62.31,67.14,74.1,52.55,UNH,Healthcare
+2018-07-01,62.31,67.14,74.1,52.55,UNH,Healthcare
+2018-08-01,62.31,67.14,74.1,52.55,UNH,Healthcare
+2018-09-01,62.31,67.14,74.1,52.55,UNH,Healthcare
+2018-10-01,62.91,69.13,74.1,52.55,UNH,Healthcare
+2018-11-01,62.55,67.94,74.1,52.55,UNH,Healthcare
+2018-12-01,62.55,67.94,74.1,52.55,UNH,Healthcare
+2019-01-01,62.55,67.94,74.1,52.55,UNH,Healthcare
+2019-02-01,62.55,67.94,74.1,52.55,UNH,Healthcare
+2019-03-01,62.55,67.94,74.1,52.55,UNH,Healthcare
+2019-04-01,62.55,67.94,74.1,52.55,UNH,Healthcare
+2019-05-01,62.55,67.94,74.1,52.55,UNH,Healthcare
+2019-06-01,62.55,67.94,74.1,52.55,UNH,Healthcare
+2019-07-01,63.41,67.94,73.63,54.7,UNH,Healthcare
+2019-08-01,63.41,67.94,73.63,54.7,UNH,Healthcare
+2019-09-01,63.41,67.94,73.63,54.7,UNH,Healthcare
+2019-10-01,63.41,67.94,73.63,54.7,UNH,Healthcare
+2019-11-01,63.26,67.44,73.63,54.7,UNH,Healthcare
+2019-12-01,20.82,6.05,0.03,14.74,UNH,Healthcare
+2020-01-01,20.82,6.05,0.03,14.74,UNH,Healthcare
+2020-02-01,20.82,6.05,0.03,14.74,UNH,Healthcare
+2020-03-01,20.93,6.05,0.03,14.85,UNH,Healthcare
+2020-04-01,,,,,UNH,Healthcare
+2020-05-01,,,,,UNH,Healthcare
+2020-06-01,,,,,UNH,Healthcare
+2020-07-01,20.79,5.91,0.03,14.85,UNH,Healthcare
+2020-08-01,20.79,5.91,0.03,14.85,UNH,Healthcare
+2020-09-01,,,,,UNH,Healthcare
+2020-10-01,21.15,5.76,0.03,15.36,UNH,Healthcare
+2020-11-01,,,,,UNH,Healthcare
+2020-12-01,,,,,UNH,Healthcare
+2021-01-01,21.29,5.87,0.03,15.39,UNH,Healthcare
+2021-02-01,21.29,5.87,0.03,15.39,UNH,Healthcare
+2021-03-01,21.29,5.87,0.03,15.39,UNH,Healthcare
+2021-04-01,,,,,UNH,Healthcare
+2021-05-01,20.87,5.45,0.03,15.39,UNH,Healthcare
+2021-06-01,,,,,UNH,Healthcare
+2021-07-01,,,,,UNH,Healthcare
+2021-08-01,,,,,UNH,Healthcare
+2021-09-01,20.19,5.91,0.03,14.23,UNH,Healthcare
+2021-10-01,,,,,UNH,Healthcare
+2021-11-01,,,,,UNH,Healthcare
+2021-12-01,,,,,UNH,Healthcare
+2022-01-01,,,,,UNH,Healthcare
+2022-02-01,17.44,5.89,0.03,11.52,UNH,Healthcare
+2022-03-01,,,,,UNH,Healthcare
+2022-04-01,,,,,UNH,Healthcare
+2022-05-01,17.54,5.89,0.03,11.62,UNH,Healthcare
+2022-06-01,,,,,UNH,Healthcare
+2022-07-01,,,,,UNH,Healthcare
+2022-08-01,17.54,5.89,0.03,11.62,UNH,Healthcare
+2014-09-01,66.0,71.0,82.0,53.0,VZ,Telecommunication Services
+2014-10-01,67.0,71.0,81.0,58.0,VZ,Telecommunication Services
+2014-11-01,68.0,71.0,80.0,58.0,VZ,Telecommunication Services
+2014-12-01,68.0,71.0,80.0,58.0,VZ,Telecommunication Services
+2015-01-01,69.0,73.0,80.0,58.0,VZ,Telecommunication Services
+2015-02-01,69.0,73.0,80.0,58.0,VZ,Telecommunication Services
+2015-03-01,68.0,73.0,80.0,58.0,VZ,Telecommunication Services
+2015-04-01,68.0,73.0,80.0,58.0,VZ,Telecommunication Services
+2015-05-01,68.0,73.0,80.0,58.0,VZ,Telecommunication Services
+2015-06-01,68.0,73.0,80.0,58.0,VZ,Telecommunication Services
+2015-07-01,68.0,73.0,80.0,58.0,VZ,Telecommunication Services
+2015-08-01,68.0,73.0,80.0,58.0,VZ,Telecommunication Services
+2015-09-01,67.0,73.0,80.0,56.0,VZ,Telecommunication Services
+2015-10-01,67.0,73.0,79.0,56.0,VZ,Telecommunication Services
+2015-11-01,67.0,73.0,79.0,56.0,VZ,Telecommunication Services
+2015-12-01,67.0,73.0,80.0,56.0,VZ,Telecommunication Services
+2016-01-01,67.28,73.08,79.54,55.88,VZ,Telecommunication Services
+2016-02-01,67.28,73.08,79.54,55.88,VZ,Telecommunication Services
+2016-03-01,67.28,73.08,79.54,55.88,VZ,Telecommunication Services
+2016-04-01,66.36,73.09,80.23,53.35,VZ,Telecommunication Services
+2016-05-01,66.36,73.09,80.23,53.35,VZ,Telecommunication Services
+2016-06-01,66.36,73.09,80.23,53.35,VZ,Telecommunication Services
+2016-07-01,65.13,70.05,78.64,53.35,VZ,Telecommunication Services
+2016-08-01,65.13,70.05,78.64,53.35,VZ,Telecommunication Services
+2016-09-01,65.13,70.05,78.64,53.35,VZ,Telecommunication Services
+2016-10-01,65.13,70.05,78.64,53.35,VZ,Telecommunication Services
+2016-11-01,65.13,70.05,78.64,53.35,VZ,Telecommunication Services
+2016-12-01,65.13,70.05,78.64,53.35,VZ,Telecommunication Services
+2017-01-01,66.1,70.05,78.64,55.52,VZ,Telecommunication Services
+2017-02-01,66.1,70.05,78.64,55.52,VZ,Telecommunication Services
+2017-03-01,66.1,70.05,78.64,55.52,VZ,Telecommunication Services
+2017-04-01,66.1,70.05,78.64,55.52,VZ,Telecommunication Services
+2017-05-01,66.65,70.05,80.47,55.52,VZ,Telecommunication Services
+2017-06-01,68.14,77.25,81.84,53.91,VZ,Telecommunication Services
+2017-07-01,66.65,70.05,80.47,55.52,VZ,Telecommunication Services
+2017-08-01,66.89,77.25,77.7,53.91,VZ,Telecommunication Services
+2017-09-01,67.21,77.25,78.34,54.19,VZ,Telecommunication Services
+2017-10-01,68.53,76.85,81.98,54.91,VZ,Telecommunication Services
+2017-11-01,68.53,76.85,81.98,54.91,VZ,Telecommunication Services
+2017-12-01,68.53,76.85,81.98,54.91,VZ,Telecommunication Services
+2018-01-01,68.53,76.85,81.98,54.91,VZ,Telecommunication Services
+2018-02-01,68.53,76.85,81.98,54.91,VZ,Telecommunication Services
+2018-03-01,68.53,76.85,81.98,54.91,VZ,Telecommunication Services
+2018-04-01,68.53,76.85,81.98,54.91,VZ,Telecommunication Services
+2018-05-01,69.12,76.85,82.47,55.9,VZ,Telecommunication Services
+2018-06-01,69.12,76.85,82.47,55.9,VZ,Telecommunication Services
+2018-07-01,69.12,76.85,82.47,55.9,VZ,Telecommunication Services
+2018-08-01,69.12,76.85,82.47,55.9,VZ,Telecommunication Services
+2018-09-01,69.12,76.85,82.47,55.9,VZ,Telecommunication Services
+2018-10-01,69.65,76.85,82.47,57.09,VZ,Telecommunication Services
+2018-11-01,69.45,76.05,82.47,57.09,VZ,Telecommunication Services
+2018-12-01,69.42,76.05,82.47,57.02,VZ,Telecommunication Services
+2019-01-01,69.42,76.05,82.47,57.02,VZ,Telecommunication Services
+2019-02-01,69.42,76.05,82.47,57.02,VZ,Telecommunication Services
+2019-03-01,69.42,76.05,82.47,57.02,VZ,Telecommunication Services
+2019-04-01,69.72,76.05,83.44,57.02,VZ,Telecommunication Services
+2019-05-01,73.1,77.55,84.89,62.74,VZ,Telecommunication Services
+2019-06-01,73.1,77.55,84.89,62.74,VZ,Telecommunication Services
+2019-07-01,73.1,77.55,84.89,62.74,VZ,Telecommunication Services
+2019-08-01,73.32,78.45,84.89,62.74,VZ,Telecommunication Services
+2019-09-01,73.32,78.45,84.89,62.74,VZ,Telecommunication Services
+2019-10-01,73.92,78.45,84.89,64.07,VZ,Telecommunication Services
+2019-11-01,73.92,78.45,84.89,64.07,VZ,Telecommunication Services
+2019-12-01,19.78,6.4,1.86,11.52,VZ,Telecommunication Services
+2020-01-01,19.78,6.4,1.86,11.52,VZ,Telecommunication Services
+2020-02-01,19.78,6.4,1.86,11.52,VZ,Telecommunication Services
+2020-03-01,19.78,6.4,1.86,11.52,VZ,Telecommunication Services
+2020-04-01,,,,,VZ,Telecommunication Services
+2020-05-01,,,,,VZ,Telecommunication Services
+2020-06-01,,,,,VZ,Telecommunication Services
+2020-07-01,20.22,6.43,2.27,11.52,VZ,Telecommunication Services
+2020-08-01,20.37,6.43,2.25,11.68,VZ,Telecommunication Services
+2020-09-01,,,,,VZ,Telecommunication Services
+2020-10-01,18.09,6.18,1.71,10.2,VZ,Telecommunication Services
+2020-11-01,,,,,VZ,Telecommunication Services
+2020-12-01,,,,,VZ,Telecommunication Services
+2021-01-01,18.09,6.18,1.71,10.2,VZ,Telecommunication Services
+2021-02-01,18.09,6.18,1.71,10.2,VZ,Telecommunication Services
+2021-03-01,18.09,6.18,1.71,10.2,VZ,Telecommunication Services
+2021-04-01,,,,,VZ,Telecommunication Services
+2021-05-01,18.09,6.18,1.71,10.2,VZ,Telecommunication Services
+2021-06-01,,,,,VZ,Telecommunication Services
+2021-07-01,,,,,VZ,Telecommunication Services
+2021-08-01,,,,,VZ,Telecommunication Services
+2021-09-01,17.91,6.0,1.71,10.2,VZ,Telecommunication Services
+2021-10-01,,,,,VZ,Telecommunication Services
+2021-11-01,,,,,VZ,Telecommunication Services
+2021-12-01,,,,,VZ,Telecommunication Services
+2022-01-01,,,,,VZ,Telecommunication Services
+2022-02-01,16.7,5.7,1.72,9.28,VZ,Telecommunication Services
+2022-03-01,,,,,VZ,Telecommunication Services
+2022-04-01,,,,,VZ,Telecommunication Services
+2022-05-01,18.3,5.51,3.88,8.92,VZ,Telecommunication Services
+2022-06-01,,,,,VZ,Telecommunication Services
+2022-07-01,,,,,VZ,Telecommunication Services
+2022-08-01,18.48,5.69,3.88,8.92,VZ,Telecommunication Services
+2018-10-01,49.33,48.7,49.44,51.49,ELV,Canada Fund Emerging Markets Equity
+2014-09-01,67.0,85.0,60.0,60.0,ANTM,Healthcare
+2014-10-01,67.0,85.0,60.0,60.0,ANTM,Healthcare
+2014-11-01,67.0,85.0,60.0,60.0,ANTM,Healthcare
+2014-12-01,67.0,85.0,60.0,60.0,ANTM,Healthcare
+2015-01-01,69.0,81.0,68.0,61.0,ANTM,Healthcare
+2015-02-01,69.0,81.0,68.0,61.0,ANTM,Healthcare
+2015-03-01,69.0,81.0,68.0,61.0,ANTM,Healthcare
+2015-04-01,69.0,81.0,68.0,61.0,ANTM,Healthcare
+2015-05-01,69.0,81.0,68.0,61.0,ANTM,Healthcare
+2015-06-01,67.0,81.0,68.0,57.0,ANTM,Healthcare
+2015-07-01,67.0,81.0,68.0,57.0,ANTM,Healthcare
+2015-08-01,67.0,81.0,68.0,57.0,ANTM,Healthcare
+2015-09-01,67.0,81.0,68.0,57.0,ANTM,Healthcare
+2015-10-01,67.0,81.0,68.0,57.0,ANTM,Healthcare
+2015-11-01,67.0,81.0,68.0,57.0,ANTM,Healthcare
+2015-12-01,67.0,81.0,68.0,57.0,ANTM,Healthcare
+2016-01-01,67.26,81.49,68.0,57.36,ANTM,Healthcare
+2016-02-01,67.26,81.49,68.0,57.36,ANTM,Healthcare
+2016-03-01,67.26,81.49,68.0,57.36,ANTM,Healthcare
+2016-04-01,58.92,72.33,65.0,46.61,ANTM,Healthcare
+2016-05-01,58.92,72.33,65.0,46.61,ANTM,Healthcare
+2016-06-01,58.42,72.33,63.0,46.61,ANTM,Healthcare
+2016-07-01,57.42,72.33,59.0,46.61,ANTM,Healthcare
+2016-08-01,56.62,72.33,59.0,44.83,ANTM,Healthcare
+2016-09-01,56.62,72.33,59.0,44.83,ANTM,Healthcare
+2016-10-01,56.62,72.33,59.0,44.83,ANTM,Healthcare
+2016-11-01,56.62,72.33,59.0,44.83,ANTM,Healthcare
+2016-12-01,56.62,72.33,59.0,44.83,ANTM,Healthcare
+2017-01-01,55.33,69.51,59.17,43.74,ANTM,Healthcare
+2017-02-01,55.33,69.51,59.17,43.74,ANTM,Healthcare
+2017-03-01,55.33,69.51,59.17,43.74,ANTM,Healthcare
+2017-04-01,55.33,69.51,59.17,43.74,ANTM,Healthcare
+2017-05-01,56.93,69.51,65.58,43.74,ANTM,Healthcare
+2017-06-01,56.93,69.51,65.58,43.74,ANTM,Healthcare
+2017-07-01,56.93,69.51,65.58,43.74,ANTM,Healthcare
+2017-08-01,59.72,72.29,71.65,44.72,ANTM,Healthcare
+2017-09-01,59.72,72.29,71.65,44.72,ANTM,Healthcare
+2017-10-01,59.4,68.28,72.12,46.42,ANTM,Healthcare
+2017-11-01,59.4,68.28,72.12,46.42,ANTM,Healthcare
+2017-12-01,59.4,68.28,72.12,46.42,ANTM,Healthcare
+2018-01-01,59.4,68.28,72.12,46.42,ANTM,Healthcare
+2018-02-01,59.4,68.28,72.12,46.42,ANTM,Healthcare
+2018-03-01,59.4,68.28,72.12,46.42,ANTM,Healthcare
+2018-04-01,59.4,68.28,72.12,46.42,ANTM,Healthcare
+2018-05-01,59.4,68.28,72.12,46.42,ANTM,Healthcare
+2018-06-01,59.4,68.28,72.12,46.42,ANTM,Healthcare
+2018-07-01,59.4,68.28,72.12,46.42,ANTM,Healthcare
+2018-08-01,57.97,67.28,69.2,45.51,ANTM,Healthcare
+2018-09-01,57.97,67.28,69.2,45.51,ANTM,Healthcare
+2018-10-01,59.3,69.27,69.2,47.14,ANTM,Healthcare
+2018-11-01,60.59,71.65,71.53,47.14,ANTM,Healthcare
+2018-12-01,60.59,71.65,71.53,47.14,ANTM,Healthcare
+2019-01-01,61.25,73.83,71.53,47.14,ANTM,Healthcare
+2019-02-01,61.25,73.83,71.53,47.14,ANTM,Healthcare
+2019-03-01,61.25,73.83,71.53,47.14,ANTM,Healthcare
+2019-04-01,61.25,73.83,71.53,47.14,ANTM,Healthcare
+2019-05-01,61.25,73.83,71.53,47.14,ANTM,Healthcare
+2019-06-01,60.51,71.2,71.53,47.26,ANTM,Healthcare
+2019-07-01,60.51,71.2,71.53,47.26,ANTM,Healthcare
+2019-08-01,60.46,71.2,71.53,47.14,ANTM,Healthcare
+2019-09-01,61.22,71.2,71.53,48.83,ANTM,Healthcare
+2019-10-01,62.2,69.21,77.83,48.83,ANTM,Healthcare
+2019-11-01,62.2,69.21,77.83,48.83,ANTM,Healthcare
+2019-12-01,23.83,6.71,0.05,17.07,ANTM,Healthcare
+2020-01-01,23.75,6.63,0.05,17.07,ANTM,Healthcare
+2020-02-01,16.7,6.42,0.05,10.24,ANTM,Healthcare
+2020-03-01,16.7,6.42,0.05,10.24,ANTM,Healthcare
+2020-04-01,,,,,ANTM,Healthcare
+2020-05-01,,,,,ANTM,Healthcare
+2020-06-01,,,,,ANTM,Healthcare
+2020-07-01,16.7,6.42,0.05,10.24,ANTM,Healthcare
+2020-08-01,16.7,6.42,0.05,10.24,ANTM,Healthcare
+2020-09-01,,,,,ANTM,Healthcare
+2020-10-01,15.94,6.13,0.05,9.77,ANTM,Healthcare
+2020-11-01,,,,,ANTM,Healthcare
+2020-12-01,,,,,ANTM,Healthcare
+2021-01-01,12.27,5.27,0.03,6.97,ANTM,Healthcare
+2021-02-01,12.27,5.27,0.03,6.97,ANTM,Healthcare
+2021-03-01,12.27,5.27,0.03,6.97,ANTM,Healthcare
+2021-04-01,,,,,ANTM,Healthcare
+2021-05-01,12.27,5.27,0.03,6.97,ANTM,Healthcare
+2021-06-01,,,,,ANTM,Healthcare
+2021-07-01,,,,,ANTM,Healthcare
+2021-08-01,,,,,ANTM,Healthcare
+2021-09-01,11.81,5.8,0.03,5.98,ANTM,Healthcare
+2021-10-01,,,,,ANTM,Healthcare
+2021-11-01,,,,,ANTM,Healthcare
+2021-12-01,,,,,ANTM,Healthcare
+2022-01-01,,,,,ANTM,Healthcare
+2022-02-01,11.59,5.8,0.03,5.76,ANTM,Healthcare
+2022-03-01,,,,,ANTM,Healthcare
+2022-04-01,,,,,ANTM,Healthcare
+2022-05-01,11.59,5.8,0.03,5.76,ANTM,Healthcare
+2014-09-01,66.0,74.0,60.0,66.0,TGT,Retailing
+2014-10-01,66.0,74.0,60.0,66.0,TGT,Retailing
+2014-11-01,66.0,74.0,60.0,66.0,TGT,Retailing
+2014-12-01,66.0,74.0,60.0,66.0,TGT,Retailing
+2015-01-01,66.0,74.0,60.0,66.0,TGT,Retailing
+2015-02-01,67.0,75.0,60.0,69.0,TGT,Retailing
+2015-03-01,66.0,75.0,60.0,66.0,TGT,Retailing
+2015-04-01,66.0,75.0,60.0,66.0,TGT,Retailing
+2015-05-01,66.0,75.0,60.0,66.0,TGT,Retailing
+2015-06-01,66.0,75.0,60.0,66.0,TGT,Retailing
+2015-07-01,66.0,75.0,60.0,66.0,TGT,Retailing
+2015-08-01,69.0,75.0,68.0,66.0,TGT,Retailing
+2015-09-01,69.0,75.0,68.0,66.0,TGT,Retailing
+2015-10-01,69.0,75.0,68.0,66.0,TGT,Retailing
+2015-11-01,69.0,75.0,68.0,66.0,TGT,Retailing
+2015-12-01,69.0,75.0,68.0,66.0,TGT,Retailing
+2016-01-01,69.1,75.29,67.88,66.31,TGT,Retailing
+2016-02-01,69.1,75.29,67.88,66.31,TGT,Retailing
+2016-03-01,69.1,75.29,67.88,66.31,TGT,Retailing
+2016-04-01,63.92,75.29,67.86,53.36,TGT,Retailing
+2016-05-01,62.97,75.29,67.86,50.98,TGT,Retailing
+2016-06-01,64.55,75.29,67.86,54.94,TGT,Retailing
+2016-07-01,64.27,75.29,67.05,54.94,TGT,Retailing
+2016-08-01,64.27,75.29,67.05,54.94,TGT,Retailing
+2016-09-01,64.27,75.29,67.05,54.94,TGT,Retailing
+2016-10-01,64.27,75.29,67.05,54.94,TGT,Retailing
+2016-11-01,64.27,75.29,67.05,54.94,TGT,Retailing
+2016-12-01,63.42,71.89,67.05,54.94,TGT,Retailing
+2017-01-01,63.19,71.89,66.37,54.96,TGT,Retailing
+2017-02-01,63.19,71.89,66.37,54.96,TGT,Retailing
+2017-03-01,63.19,71.89,66.37,54.96,TGT,Retailing
+2017-04-01,63.19,71.89,66.37,54.96,TGT,Retailing
+2017-05-01,63.46,71.89,67.15,54.96,TGT,Retailing
+2017-06-01,63.46,71.89,67.15,54.96,TGT,Retailing
+2017-07-01,63.46,71.89,67.15,54.96,TGT,Retailing
+2017-08-01,63.05,71.89,65.98,54.96,TGT,Retailing
+2017-09-01,63.05,71.89,65.98,54.96,TGT,Retailing
+2017-10-01,63.31,69.79,66.13,56.79,TGT,Retailing
+2017-11-01,63.31,69.79,66.13,56.79,TGT,Retailing
+2017-12-01,63.31,69.79,66.13,56.79,TGT,Retailing
+2018-01-01,63.31,69.79,66.13,56.79,TGT,Retailing
+2018-02-01,63.31,69.79,66.13,56.79,TGT,Retailing
+2018-03-01,63.31,69.79,66.13,56.79,TGT,Retailing
+2018-04-01,63.31,69.79,66.13,56.79,TGT,Retailing
+2018-05-01,63.31,69.79,66.13,56.79,TGT,Retailing
+2018-06-01,63.31,69.79,66.13,56.79,TGT,Retailing
+2018-07-01,63.31,69.79,66.13,56.79,TGT,Retailing
+2018-08-01,61.51,69.79,66.13,52.29,TGT,Retailing
+2018-09-01,61.51,69.79,66.13,52.29,TGT,Retailing
+2018-10-01,59.95,68.79,66.91,48.34,TGT,Retailing
+2018-11-01,59.65,67.59,66.91,48.34,TGT,Retailing
+2018-12-01,59.55,67.19,66.91,48.34,TGT,Retailing
+2019-01-01,58.93,68.49,64.2,48.34,TGT,Retailing
+2019-02-01,58.93,68.49,64.2,48.34,TGT,Retailing
+2019-03-01,58.93,68.49,64.2,48.34,TGT,Retailing
+2019-04-01,58.93,68.49,64.2,48.34,TGT,Retailing
+2019-05-01,58.93,68.49,64.2,48.34,TGT,Retailing
+2019-06-01,58.93,68.49,64.2,48.34,TGT,Retailing
+2019-07-01,58.93,68.49,64.2,48.34,TGT,Retailing
+2019-08-01,58.93,68.49,64.2,48.34,TGT,Retailing
+2019-09-01,58.76,65.45,64.2,49.83,TGT,Retailing
+2019-10-01,58.76,65.45,64.2,49.83,TGT,Retailing
+2019-11-01,61.13,64.95,69.61,51.33,TGT,Retailing
+2019-12-01,58.65,65.15,66.81,47.44,TGT,Retailing
+2020-01-01,16.11,5.37,1.9,8.84,TGT,Retailing
+2020-02-01,15.03,5.11,1.9,8.03,TGT,Retailing
+2020-03-01,15.23,5.11,1.9,8.23,TGT,Retailing
+2020-04-01,,,,,TGT,Retailing
+2020-05-01,,,,,TGT,Retailing
+2020-06-01,,,,,TGT,Retailing
+2020-07-01,15.35,5.11,2.01,8.23,TGT,Retailing
+2020-08-01,15.35,5.11,2.01,8.23,TGT,Retailing
+2020-09-01,,,,,TGT,Retailing
+2020-10-01,15.37,5.13,2.01,8.23,TGT,Retailing
+2020-11-01,,,,,TGT,Retailing
+2020-12-01,,,,,TGT,Retailing
+2021-01-01,14.82,5.34,1.85,7.63,TGT,Retailing
+2021-02-01,14.82,5.34,1.85,7.63,TGT,Retailing
+2021-03-01,15.04,5.34,2.08,7.63,TGT,Retailing
+2021-04-01,,,,,TGT,Retailing
+2021-05-01,15.04,5.34,2.08,7.63,TGT,Retailing
+2021-06-01,,,,,TGT,Retailing
+2021-07-01,,,,,TGT,Retailing
+2021-08-01,,,,,TGT,Retailing
+2021-09-01,15.04,5.34,2.08,7.63,TGT,Retailing
+2021-10-01,,,,,TGT,Retailing
+2021-11-01,,,,,TGT,Retailing
+2021-12-01,,,,,TGT,Retailing
+2022-01-01,,,,,TGT,Retailing
+2022-02-01,14.79,5.06,2.17,7.56,TGT,Retailing
+2022-03-01,,,,,TGT,Retailing
+2022-04-01,,,,,TGT,Retailing
+2022-05-01,14.79,5.06,2.17,7.56,TGT,Retailing
+2022-06-01,,,,,TGT,Retailing
+2022-07-01,,,,,TGT,Retailing
+2022-08-01,14.72,5.06,2.04,7.63,TGT,Retailing
+2014-09-01,77.0,76.0,76.0,78.0,PEP,Food Products
+2014-10-01,77.0,76.0,76.0,78.0,PEP,Food Products
+2014-11-01,77.0,76.0,76.0,78.0,PEP,Food Products
+2014-12-01,77.0,76.0,76.0,78.0,PEP,Food Products
+2015-01-01,77.0,82.0,76.0,76.0,PEP,Food Products
+2015-02-01,77.0,82.0,76.0,76.0,PEP,Food Products
+2015-03-01,75.0,82.0,73.0,73.0,PEP,Food Products
+2015-04-01,75.0,82.0,73.0,73.0,PEP,Food Products
+2015-05-01,75.0,82.0,73.0,73.0,PEP,Food Products
+2015-06-01,75.0,82.0,73.0,73.0,PEP,Food Products
+2015-07-01,75.0,82.0,73.0,73.0,PEP,Food Products
+2015-08-01,74.0,82.0,71.0,73.0,PEP,Food Products
+2015-09-01,74.0,82.0,71.0,73.0,PEP,Food Products
+2015-10-01,74.0,82.0,71.0,73.0,PEP,Food Products
+2015-11-01,74.0,82.0,71.0,73.0,PEP,Food Products
+2015-12-01,74.0,82.0,71.0,73.0,PEP,Food Products
+2016-01-01,74.3,81.71,70.64,72.88,PEP,Food Products
+2016-02-01,72.98,76.42,70.64,72.88,PEP,Food Products
+2016-03-01,72.98,76.42,70.64,72.88,PEP,Food Products
+2016-04-01,71.92,76.45,71.0,69.88,PEP,Food Products
+2016-05-01,71.92,76.45,71.0,69.88,PEP,Food Products
+2016-06-01,71.92,76.45,71.0,69.88,PEP,Food Products
+2016-07-01,71.92,76.45,71.0,69.88,PEP,Food Products
+2016-08-01,70.13,75.31,71.0,66.13,PEP,Food Products
+2016-09-01,68.43,75.51,69.12,63.41,PEP,Food Products
+2016-10-01,68.43,75.51,69.12,63.41,PEP,Food Products
+2016-11-01,68.43,75.51,69.12,63.41,PEP,Food Products
+2016-12-01,68.43,75.51,69.12,63.41,PEP,Food Products
+2017-01-01,70.07,75.58,75.38,61.98,PEP,Food Products
+2017-02-01,70.07,75.58,75.38,61.98,PEP,Food Products
+2017-03-01,70.07,75.58,75.38,61.98,PEP,Food Products
+2017-04-01,70.07,75.58,75.38,61.98,PEP,Food Products
+2017-05-01,70.38,75.58,76.26,61.98,PEP,Food Products
+2017-06-01,70.38,75.58,76.26,61.98,PEP,Food Products
+2017-07-01,70.38,75.58,76.26,61.98,PEP,Food Products
+2017-08-01,71.91,75.58,77.51,64.71,PEP,Food Products
+2017-09-01,71.91,75.58,77.51,64.71,PEP,Food Products
+2017-10-01,72.16,72.48,79.09,65.89,PEP,Food Products
+2017-11-01,72.16,72.48,79.09,65.89,PEP,Food Products
+2017-12-01,72.3,73.04,79.09,65.89,PEP,Food Products
+2018-01-01,72.3,73.04,79.09,65.89,PEP,Food Products
+2018-02-01,72.3,73.04,79.09,65.89,PEP,Food Products
+2018-03-01,72.3,73.04,79.09,65.89,PEP,Food Products
+2018-04-01,72.3,73.04,79.09,65.89,PEP,Food Products
+2018-05-01,72.3,73.04,79.09,65.89,PEP,Food Products
+2018-06-01,71.84,73.04,79.09,64.75,PEP,Food Products
+2018-07-01,67.27,74.7,71.46,58.95,PEP,Food Products
+2018-08-01,67.27,74.7,71.46,58.95,PEP,Food Products
+2018-09-01,67.27,74.7,71.46,58.95,PEP,Food Products
+2018-10-01,67.27,74.7,71.46,58.95,PEP,Food Products
+2018-11-01,67.05,73.81,71.46,58.95,PEP,Food Products
+2018-12-01,67.05,73.81,71.46,58.95,PEP,Food Products
+2019-01-01,67.05,73.81,71.46,58.95,PEP,Food Products
+2019-02-01,67.05,73.81,71.46,58.95,PEP,Food Products
+2019-03-01,67.05,73.81,71.46,58.95,PEP,Food Products
+2019-04-01,67.05,73.81,71.46,58.95,PEP,Food Products
+2019-05-01,67.05,73.81,71.46,58.95,PEP,Food Products
+2019-06-01,67.07,73.92,71.46,58.95,PEP,Food Products
+2019-07-01,67.52,73.92,72.75,58.95,PEP,Food Products
+2019-08-01,67.52,73.92,72.75,58.95,PEP,Food Products
+2019-09-01,67.52,73.92,72.75,58.95,PEP,Food Products
+2019-10-01,67.52,73.92,72.75,58.95,PEP,Food Products
+2019-11-01,71.71,73.92,74.37,67.99,PEP,Food Products
+2019-12-01,21.95,4.87,7.27,9.8,PEP,Food Products
+2020-01-01,21.95,4.87,7.27,9.8,PEP,Food Products
+2020-02-01,21.95,4.87,7.27,9.8,PEP,Food Products
+2020-03-01,21.95,4.87,7.27,9.8,PEP,Food Products
+2020-04-01,,,,,PEP,Food Products
+2020-05-01,,,,,PEP,Food Products
+2020-06-01,,,,,PEP,Food Products
+2020-07-01,22.17,4.94,7.43,9.8,PEP,Food Products
+2020-08-01,22.17,4.94,7.43,9.8,PEP,Food Products
+2020-09-01,,,,,PEP,Food Products
+2020-10-01,21.64,4.62,7.22,9.8,PEP,Food Products
+2020-11-01,,,,,PEP,Food Products
+2020-12-01,,,,,PEP,Food Products
+2021-01-01,17.57,4.63,5.15,7.79,PEP,Food Products
+2021-02-01,17.57,4.63,5.15,7.79,PEP,Food Products
+2021-03-01,17.76,4.82,5.15,7.79,PEP,Food Products
+2021-04-01,,,,,PEP,Food Products
+2021-05-01,17.68,4.82,5.07,7.79,PEP,Food Products
+2021-06-01,,,,,PEP,Food Products
+2021-07-01,,,,,PEP,Food Products
+2021-08-01,,,,,PEP,Food Products
+2021-09-01,17.41,4.55,5.07,7.79,PEP,Food Products
+2021-10-01,,,,,PEP,Food Products
+2021-11-01,,,,,PEP,Food Products
+2021-12-01,,,,,PEP,Food Products
+2022-01-01,,,,,PEP,Food Products
+2022-02-01,16.01,4.55,4.91,6.55,PEP,Food Products
+2022-03-01,,,,,PEP,Food Products
+2022-04-01,,,,,PEP,Food Products
+2022-05-01,16.01,4.55,4.91,6.55,PEP,Food Products
+2022-06-01,,,,,PEP,Food Products
+2022-07-01,,,,,PEP,Food Products
+2022-08-01,15.94,4.48,4.91,6.55,PEP,Food Products
+2014-09-01,61.0,54.0,74.0,50.0,AMT,Real Estate
+2014-10-01,61.0,54.0,74.0,50.0,AMT,Real Estate
+2014-11-01,61.0,54.0,74.0,50.0,AMT,Real Estate
+2014-12-01,61.0,54.0,74.0,50.0,AMT,Real Estate
+2015-01-01,66.0,67.0,76.0,51.0,AMT,Real Estate
+2015-02-01,66.0,67.0,76.0,51.0,AMT,Real Estate
+2015-03-01,66.0,67.0,76.0,51.0,AMT,Real Estate
+2015-04-01,66.0,67.0,76.0,51.0,AMT,Real Estate
+2015-05-01,66.0,67.0,76.0,51.0,AMT,Real Estate
+2015-06-01,66.0,67.0,76.0,51.0,AMT,Real Estate
+2015-07-01,66.0,67.0,76.0,51.0,AMT,Real Estate
+2015-08-01,66.0,67.0,76.0,51.0,AMT,Real Estate
+2015-09-01,66.0,67.0,76.0,51.0,AMT,Real Estate
+2015-10-01,66.0,67.0,76.0,51.0,AMT,Real Estate
+2015-11-01,66.0,67.0,76.0,51.0,AMT,Real Estate
+2015-12-01,68.0,68.0,79.0,55.0,AMT,Real Estate
+2016-01-01,68.44,68.06,78.87,54.91,AMT,Real Estate
+2016-02-01,68.44,68.06,78.87,54.91,AMT,Real Estate
+2016-03-01,68.44,68.06,78.87,54.91,AMT,Real Estate
+2016-04-01,65.33,62.46,78.88,50.13,AMT,Real Estate
+2016-05-01,65.33,62.46,78.88,50.13,AMT,Real Estate
+2016-06-01,65.33,62.46,78.88,50.13,AMT,Real Estate
+2016-07-01,65.33,62.46,78.88,50.13,AMT,Real Estate
+2016-08-01,65.33,62.46,78.88,50.13,AMT,Real Estate
+2016-09-01,65.33,62.46,78.88,50.13,AMT,Real Estate
+2016-10-01,65.33,62.46,78.88,50.13,AMT,Real Estate
+2016-11-01,65.33,62.46,78.88,50.13,AMT,Real Estate
+2016-12-01,65.33,62.46,78.88,50.13,AMT,Real Estate
+2017-01-01,53.13,60.31,51.99,47.49,AMT,Real Estate
+2017-02-01,53.13,60.31,51.99,47.49,AMT,Real Estate
+2017-03-01,52.53,58.31,51.99,47.49,AMT,Real Estate
+2017-04-01,52.53,58.31,51.99,47.49,AMT,Real Estate
+2017-05-01,52.53,58.31,51.99,47.49,AMT,Real Estate
+2017-06-01,52.53,58.31,51.99,47.49,AMT,Real Estate
+2017-07-01,52.53,58.31,51.99,47.49,AMT,Real Estate
+2017-08-01,52.53,58.31,51.99,47.49,AMT,Real Estate
+2017-09-01,52.53,58.31,51.99,47.49,AMT,Real Estate
+2017-10-01,53.33,57.31,53.98,48.47,AMT,Real Estate
+2017-11-01,53.33,57.31,53.98,48.47,AMT,Real Estate
+2017-12-01,53.33,57.31,53.98,48.47,AMT,Real Estate
+2018-01-01,53.33,57.31,53.98,48.47,AMT,Real Estate
+2018-02-01,53.33,57.31,53.98,48.47,AMT,Real Estate
+2018-03-01,53.33,57.31,53.98,48.47,AMT,Real Estate
+2018-04-01,53.35,57.31,53.98,48.56,AMT,Real Estate
+2018-05-01,53.2,56.69,52.27,50.95,AMT,Real Estate
+2018-06-01,53.2,56.69,52.27,50.95,AMT,Real Estate
+2018-07-01,53.2,56.69,52.27,50.95,AMT,Real Estate
+2018-08-01,53.2,56.69,52.27,50.95,AMT,Real Estate
+2018-09-01,53.2,56.69,52.27,50.95,AMT,Real Estate
+2018-10-01,53.2,56.69,52.27,50.95,AMT,Real Estate
+2018-11-01,52.86,55.56,52.27,50.95,AMT,Real Estate
+2018-12-01,52.86,55.56,52.27,50.95,AMT,Real Estate
+2019-01-01,52.86,55.56,52.27,50.95,AMT,Real Estate
+2019-02-01,52.86,55.56,52.27,50.95,AMT,Real Estate
+2019-03-01,52.86,55.56,52.27,50.95,AMT,Real Estate
+2019-04-01,52.86,55.56,52.27,50.95,AMT,Real Estate
+2019-05-01,52.86,55.56,52.27,50.95,AMT,Real Estate
+2019-06-01,52.86,55.56,52.27,50.95,AMT,Real Estate
+2019-07-01,52.86,55.56,52.27,50.95,AMT,Real Estate
+2019-08-01,52.86,55.56,52.27,50.95,AMT,Real Estate
+2019-09-01,52.56,54.56,52.27,50.95,AMT,Real Estate
+2019-10-01,52.86,55.56,52.27,50.95,AMT,Real Estate
+2019-11-01,52.86,55.56,52.27,50.95,AMT,Real Estate
+2019-12-01,18.11,5.62,5.81,6.68,AMT,Real Estate
+2020-01-01,18.11,5.62,5.81,6.68,AMT,Real Estate
+2020-02-01,18.11,5.62,5.81,6.68,AMT,Real Estate
+2020-03-01,18.11,5.62,5.81,6.68,AMT,Real Estate
+2020-04-01,,,,,AMT,Real Estate
+2020-05-01,,,,,AMT,Real Estate
+2020-06-01,,,,,AMT,Real Estate
+2020-07-01,18.06,5.57,5.81,6.68,AMT,Real Estate
+2020-08-01,18.06,5.57,5.81,6.68,AMT,Real Estate
+2020-09-01,,,,,AMT,Real Estate
+2020-10-01,18.08,5.59,5.81,6.68,AMT,Real Estate
+2020-11-01,,,,,AMT,Real Estate
+2020-12-01,,,,,AMT,Real Estate
+2021-01-01,12.48,4.96,3.73,3.78,AMT,Real Estate
+2021-02-01,12.48,4.96,3.73,3.78,AMT,Real Estate
+2021-03-01,12.48,4.96,3.73,3.78,AMT,Real Estate
+2021-04-01,,,,,AMT,Real Estate
+2021-05-01,12.33,4.81,3.73,3.78,AMT,Real Estate
+2021-06-01,,,,,AMT,Real Estate
+2021-07-01,,,,,AMT,Real Estate
+2021-08-01,,,,,AMT,Real Estate
+2021-09-01,12.33,4.81,3.73,3.78,AMT,Real Estate
+2021-10-01,,,,,AMT,Real Estate
+2021-11-01,,,,,AMT,Real Estate
+2021-12-01,,,,,AMT,Real Estate
+2022-01-01,,,,,AMT,Real Estate
+2022-02-01,10.87,5.0,2.43,3.44,AMT,Real Estate
+2022-03-01,,,,,AMT,Real Estate
+2022-04-01,,,,,AMT,Real Estate
+2022-05-01,10.87,5.0,2.43,3.44,AMT,Real Estate
+2022-06-01,,,,,AMT,Real Estate
+2022-07-01,,,,,AMT,Real Estate
+2022-08-01,10.94,5.02,2.36,3.56,AMT,Real Estate
+2014-09-01,58.0,69.0,63.0,49.0,UNH,Healthcare
+2014-10-01,58.0,69.0,63.0,49.0,UNH,Healthcare
+2014-11-01,58.0,69.0,63.0,49.0,UNH,Healthcare
+2014-12-01,58.0,69.0,63.0,49.0,UNH,Healthcare
+2015-01-01,62.0,77.0,63.0,51.0,UNH,Healthcare
+2015-02-01,62.0,77.0,63.0,51.0,UNH,Healthcare
+2015-03-01,61.0,77.0,63.0,50.0,UNH,Healthcare
+2015-04-01,61.0,77.0,63.0,50.0,UNH,Healthcare
+2015-05-01,61.0,77.0,63.0,50.0,UNH,Healthcare
+2015-06-01,61.0,77.0,63.0,50.0,UNH,Healthcare
+2015-07-01,61.0,77.0,63.0,50.0,UNH,Healthcare
+2015-08-01,61.0,77.0,63.0,50.0,UNH,Healthcare
+2015-09-01,61.0,76.0,63.0,50.0,UNH,Healthcare
+2015-10-01,61.0,76.0,63.0,50.0,UNH,Healthcare
+2015-11-01,61.0,76.0,63.0,50.0,UNH,Healthcare
+2015-12-01,61.0,76.0,63.0,50.0,UNH,Healthcare
+2016-01-01,68.36,77.96,73.68,59.0,UNH,Healthcare
+2016-02-01,68.36,77.96,73.68,59.0,UNH,Healthcare
+2016-03-01,68.36,77.96,73.68,59.0,UNH,Healthcare
+2016-04-01,65.5,77.96,73.64,52.67,UNH,Healthcare
+2016-05-01,64.51,74.67,73.64,52.67,UNH,Healthcare
+2016-06-01,64.51,74.67,73.64,52.67,UNH,Healthcare
+2016-07-01,64.51,74.67,73.64,52.67,UNH,Healthcare
+2016-08-01,63.71,74.67,73.64,50.89,UNH,Healthcare
+2016-09-01,63.71,74.67,73.64,50.89,UNH,Healthcare
+2016-10-01,63.71,74.67,73.64,50.89,UNH,Healthcare
+2016-11-01,63.71,74.67,73.64,50.89,UNH,Healthcare
+2016-12-01,63.71,74.67,73.64,50.89,UNH,Healthcare
+2017-01-01,63.24,73.92,72.47,50.99,UNH,Healthcare
+2017-02-01,63.24,73.92,72.47,50.99,UNH,Healthcare
+2017-03-01,60.26,72.93,70.13,46.33,UNH,Healthcare
+2017-04-01,59.06,68.93,70.13,46.33,UNH,Healthcare
+2017-05-01,59.35,68.93,71.3,46.33,UNH,Healthcare
+2017-06-01,59.35,68.93,71.3,46.33,UNH,Healthcare
+2017-07-01,59.35,68.93,71.3,46.33,UNH,Healthcare
+2017-08-01,59.35,68.93,71.3,46.33,UNH,Healthcare
+2017-09-01,59.35,68.93,71.3,46.33,UNH,Healthcare
+2017-10-01,58.39,65.65,69.43,47.42,UNH,Healthcare
+2017-11-01,58.39,65.65,69.43,47.42,UNH,Healthcare
+2017-12-01,58.39,65.65,69.43,47.42,UNH,Healthcare
+2018-01-01,58.39,65.65,69.43,47.42,UNH,Healthcare
+2018-02-01,58.83,66.15,70.6,47.42,UNH,Healthcare
+2018-03-01,58.83,66.15,70.6,47.42,UNH,Healthcare
+2018-04-01,58.83,66.15,70.6,47.42,UNH,Healthcare
+2018-05-01,62.31,67.14,74.1,52.55,UNH,Healthcare
+2018-06-01,62.31,67.14,74.1,52.55,UNH,Healthcare
+2018-07-01,62.31,67.14,74.1,52.55,UNH,Healthcare
+2018-08-01,62.31,67.14,74.1,52.55,UNH,Healthcare
+2018-09-01,62.31,67.14,74.1,52.55,UNH,Healthcare
+2018-10-01,62.91,69.13,74.1,52.55,UNH,Healthcare
+2018-11-01,62.55,67.94,74.1,52.55,UNH,Healthcare
+2018-12-01,62.55,67.94,74.1,52.55,UNH,Healthcare
+2019-01-01,62.55,67.94,74.1,52.55,UNH,Healthcare
+2019-02-01,62.55,67.94,74.1,52.55,UNH,Healthcare
+2019-03-01,62.55,67.94,74.1,52.55,UNH,Healthcare
+2019-04-01,62.55,67.94,74.1,52.55,UNH,Healthcare
+2019-05-01,62.55,67.94,74.1,52.55,UNH,Healthcare
+2019-06-01,62.55,67.94,74.1,52.55,UNH,Healthcare
+2019-07-01,63.41,67.94,73.63,54.7,UNH,Healthcare
+2019-08-01,63.41,67.94,73.63,54.7,UNH,Healthcare
+2019-09-01,63.41,67.94,73.63,54.7,UNH,Healthcare
+2019-10-01,63.41,67.94,73.63,54.7,UNH,Healthcare
+2019-11-01,63.26,67.44,73.63,54.7,UNH,Healthcare
+2019-12-01,20.82,6.05,0.03,14.74,UNH,Healthcare
+2020-01-01,20.82,6.05,0.03,14.74,UNH,Healthcare
+2020-02-01,20.82,6.05,0.03,14.74,UNH,Healthcare
+2020-03-01,20.93,6.05,0.03,14.85,UNH,Healthcare
+2020-04-01,,,,,UNH,Healthcare
+2020-05-01,,,,,UNH,Healthcare
+2020-06-01,,,,,UNH,Healthcare
+2020-07-01,20.79,5.91,0.03,14.85,UNH,Healthcare
+2020-08-01,20.79,5.91,0.03,14.85,UNH,Healthcare
+2020-09-01,,,,,UNH,Healthcare
+2020-10-01,21.15,5.76,0.03,15.36,UNH,Healthcare
+2020-11-01,,,,,UNH,Healthcare
+2020-12-01,,,,,UNH,Healthcare
+2021-01-01,21.29,5.87,0.03,15.39,UNH,Healthcare
+2021-02-01,21.29,5.87,0.03,15.39,UNH,Healthcare
+2021-03-01,21.29,5.87,0.03,15.39,UNH,Healthcare
+2021-04-01,,,,,UNH,Healthcare
+2021-05-01,20.87,5.45,0.03,15.39,UNH,Healthcare
+2021-06-01,,,,,UNH,Healthcare
+2021-07-01,,,,,UNH,Healthcare
+2021-08-01,,,,,UNH,Healthcare
+2021-09-01,20.19,5.91,0.03,14.23,UNH,Healthcare
+2021-10-01,,,,,UNH,Healthcare
+2021-11-01,,,,,UNH,Healthcare
+2021-12-01,,,,,UNH,Healthcare
+2022-01-01,,,,,UNH,Healthcare
+2022-02-01,17.44,5.89,0.03,11.52,UNH,Healthcare
+2022-03-01,,,,,UNH,Healthcare
+2022-04-01,,,,,UNH,Healthcare
+2022-05-01,17.54,5.89,0.03,11.62,UNH,Healthcare
+2022-06-01,,,,,UNH,Healthcare
+2022-07-01,,,,,UNH,Healthcare
+2022-08-01,17.54,5.89,0.03,11.62,UNH,Healthcare
+2014-09-01,66.0,71.0,82.0,53.0,VZ,Telecommunication Services
+2014-10-01,67.0,71.0,81.0,58.0,VZ,Telecommunication Services
+2014-11-01,68.0,71.0,80.0,58.0,VZ,Telecommunication Services
+2014-12-01,68.0,71.0,80.0,58.0,VZ,Telecommunication Services
+2015-01-01,69.0,73.0,80.0,58.0,VZ,Telecommunication Services
+2015-02-01,69.0,73.0,80.0,58.0,VZ,Telecommunication Services
+2015-03-01,68.0,73.0,80.0,58.0,VZ,Telecommunication Services
+2015-04-01,68.0,73.0,80.0,58.0,VZ,Telecommunication Services
+2015-05-01,68.0,73.0,80.0,58.0,VZ,Telecommunication Services
+2015-06-01,68.0,73.0,80.0,58.0,VZ,Telecommunication Services
+2015-07-01,68.0,73.0,80.0,58.0,VZ,Telecommunication Services
+2015-08-01,68.0,73.0,80.0,58.0,VZ,Telecommunication Services
+2015-09-01,67.0,73.0,80.0,56.0,VZ,Telecommunication Services
+2015-10-01,67.0,73.0,79.0,56.0,VZ,Telecommunication Services
+2015-11-01,67.0,73.0,79.0,56.0,VZ,Telecommunication Services
+2015-12-01,67.0,73.0,80.0,56.0,VZ,Telecommunication Services
+2016-01-01,67.28,73.08,79.54,55.88,VZ,Telecommunication Services
+2016-02-01,67.28,73.08,79.54,55.88,VZ,Telecommunication Services
+2016-03-01,67.28,73.08,79.54,55.88,VZ,Telecommunication Services
+2016-04-01,66.36,73.09,80.23,53.35,VZ,Telecommunication Services
+2016-05-01,66.36,73.09,80.23,53.35,VZ,Telecommunication Services
+2016-06-01,66.36,73.09,80.23,53.35,VZ,Telecommunication Services
+2016-07-01,65.13,70.05,78.64,53.35,VZ,Telecommunication Services
+2016-08-01,65.13,70.05,78.64,53.35,VZ,Telecommunication Services
+2016-09-01,65.13,70.05,78.64,53.35,VZ,Telecommunication Services
+2016-10-01,65.13,70.05,78.64,53.35,VZ,Telecommunication Services
+2016-11-01,65.13,70.05,78.64,53.35,VZ,Telecommunication Services
+2016-12-01,65.13,70.05,78.64,53.35,VZ,Telecommunication Services
+2017-01-01,66.1,70.05,78.64,55.52,VZ,Telecommunication Services
+2017-02-01,66.1,70.05,78.64,55.52,VZ,Telecommunication Services
+2017-03-01,66.1,70.05,78.64,55.52,VZ,Telecommunication Services
+2017-04-01,66.1,70.05,78.64,55.52,VZ,Telecommunication Services
+2017-05-01,66.65,70.05,80.47,55.52,VZ,Telecommunication Services
+2017-06-01,68.14,77.25,81.84,53.91,VZ,Telecommunication Services
+2017-07-01,66.65,70.05,80.47,55.52,VZ,Telecommunication Services
+2017-08-01,66.89,77.25,77.7,53.91,VZ,Telecommunication Services
+2017-09-01,67.21,77.25,78.34,54.19,VZ,Telecommunication Services
+2017-10-01,68.53,76.85,81.98,54.91,VZ,Telecommunication Services
+2017-11-01,68.53,76.85,81.98,54.91,VZ,Telecommunication Services
+2017-12-01,68.53,76.85,81.98,54.91,VZ,Telecommunication Services
+2018-01-01,68.53,76.85,81.98,54.91,VZ,Telecommunication Services
+2018-02-01,68.53,76.85,81.98,54.91,VZ,Telecommunication Services
+2018-03-01,68.53,76.85,81.98,54.91,VZ,Telecommunication Services
+2018-04-01,68.53,76.85,81.98,54.91,VZ,Telecommunication Services
+2018-05-01,69.12,76.85,82.47,55.9,VZ,Telecommunication Services
+2018-06-01,69.12,76.85,82.47,55.9,VZ,Telecommunication Services
+2018-07-01,69.12,76.85,82.47,55.9,VZ,Telecommunication Services
+2018-08-01,69.12,76.85,82.47,55.9,VZ,Telecommunication Services
+2018-09-01,69.12,76.85,82.47,55.9,VZ,Telecommunication Services
+2018-10-01,69.65,76.85,82.47,57.09,VZ,Telecommunication Services
+2018-11-01,69.45,76.05,82.47,57.09,VZ,Telecommunication Services
+2018-12-01,69.42,76.05,82.47,57.02,VZ,Telecommunication Services
+2019-01-01,69.42,76.05,82.47,57.02,VZ,Telecommunication Services
+2019-02-01,69.42,76.05,82.47,57.02,VZ,Telecommunication Services
+2019-03-01,69.42,76.05,82.47,57.02,VZ,Telecommunication Services
+2019-04-01,69.72,76.05,83.44,57.02,VZ,Telecommunication Services
+2019-05-01,73.1,77.55,84.89,62.74,VZ,Telecommunication Services
+2019-06-01,73.1,77.55,84.89,62.74,VZ,Telecommunication Services
+2019-07-01,73.1,77.55,84.89,62.74,VZ,Telecommunication Services
+2019-08-01,73.32,78.45,84.89,62.74,VZ,Telecommunication Services
+2019-09-01,73.32,78.45,84.89,62.74,VZ,Telecommunication Services
+2019-10-01,73.92,78.45,84.89,64.07,VZ,Telecommunication Services
+2019-11-01,73.92,78.45,84.89,64.07,VZ,Telecommunication Services
+2019-12-01,19.78,6.4,1.86,11.52,VZ,Telecommunication Services
+2020-01-01,19.78,6.4,1.86,11.52,VZ,Telecommunication Services
+2020-02-01,19.78,6.4,1.86,11.52,VZ,Telecommunication Services
+2020-03-01,19.78,6.4,1.86,11.52,VZ,Telecommunication Services
+2020-04-01,,,,,VZ,Telecommunication Services
+2020-05-01,,,,,VZ,Telecommunication Services
+2020-06-01,,,,,VZ,Telecommunication Services
+2020-07-01,20.22,6.43,2.27,11.52,VZ,Telecommunication Services
+2020-08-01,20.37,6.43,2.25,11.68,VZ,Telecommunication Services
+2020-09-01,,,,,VZ,Telecommunication Services
+2020-10-01,18.09,6.18,1.71,10.2,VZ,Telecommunication Services
+2020-11-01,,,,,VZ,Telecommunication Services
+2020-12-01,,,,,VZ,Telecommunication Services
+2021-01-01,18.09,6.18,1.71,10.2,VZ,Telecommunication Services
+2021-02-01,18.09,6.18,1.71,10.2,VZ,Telecommunication Services
+2021-03-01,18.09,6.18,1.71,10.2,VZ,Telecommunication Services
+2021-04-01,,,,,VZ,Telecommunication Services
+2021-05-01,18.09,6.18,1.71,10.2,VZ,Telecommunication Services
+2021-06-01,,,,,VZ,Telecommunication Services
+2021-07-01,,,,,VZ,Telecommunication Services
+2021-08-01,,,,,VZ,Telecommunication Services
+2021-09-01,17.91,6.0,1.71,10.2,VZ,Telecommunication Services
+2021-10-01,,,,,VZ,Telecommunication Services
+2021-11-01,,,,,VZ,Telecommunication Services
+2021-12-01,,,,,VZ,Telecommunication Services
+2022-01-01,,,,,VZ,Telecommunication Services
+2022-02-01,16.7,5.7,1.72,9.28,VZ,Telecommunication Services
+2022-03-01,,,,,VZ,Telecommunication Services
+2022-04-01,,,,,VZ,Telecommunication Services
+2022-05-01,18.3,5.51,3.88,8.92,VZ,Telecommunication Services
+2022-06-01,,,,,VZ,Telecommunication Services
+2022-07-01,,,,,VZ,Telecommunication Services
+2022-08-01,18.48,5.69,3.88,8.92,VZ,Telecommunication Services
+2018-10-01,49.33,48.7,49.44,51.49,ELV,Canada Fund Emerging Markets Equity
+2014-09-01,67.0,85.0,60.0,60.0,ANTM,Healthcare
+2014-10-01,67.0,85.0,60.0,60.0,ANTM,Healthcare
+2014-11-01,67.0,85.0,60.0,60.0,ANTM,Healthcare
+2014-12-01,67.0,85.0,60.0,60.0,ANTM,Healthcare
+2015-01-01,69.0,81.0,68.0,61.0,ANTM,Healthcare
+2015-02-01,69.0,81.0,68.0,61.0,ANTM,Healthcare
+2015-03-01,69.0,81.0,68.0,61.0,ANTM,Healthcare
+2015-04-01,69.0,81.0,68.0,61.0,ANTM,Healthcare
+2015-05-01,69.0,81.0,68.0,61.0,ANTM,Healthcare
+2015-06-01,67.0,81.0,68.0,57.0,ANTM,Healthcare
+2015-07-01,67.0,81.0,68.0,57.0,ANTM,Healthcare
+2015-08-01,67.0,81.0,68.0,57.0,ANTM,Healthcare
+2015-09-01,67.0,81.0,68.0,57.0,ANTM,Healthcare
+2015-10-01,67.0,81.0,68.0,57.0,ANTM,Healthcare
+2015-11-01,67.0,81.0,68.0,57.0,ANTM,Healthcare
+2015-12-01,67.0,81.0,68.0,57.0,ANTM,Healthcare
+2016-01-01,67.26,81.49,68.0,57.36,ANTM,Healthcare
+2016-02-01,67.26,81.49,68.0,57.36,ANTM,Healthcare
+2016-03-01,67.26,81.49,68.0,57.36,ANTM,Healthcare
+2016-04-01,58.92,72.33,65.0,46.61,ANTM,Healthcare
+2016-05-01,58.92,72.33,65.0,46.61,ANTM,Healthcare
+2016-06-01,58.42,72.33,63.0,46.61,ANTM,Healthcare
+2016-07-01,57.42,72.33,59.0,46.61,ANTM,Healthcare
+2016-08-01,56.62,72.33,59.0,44.83,ANTM,Healthcare
+2016-09-01,56.62,72.33,59.0,44.83,ANTM,Healthcare
+2016-10-01,56.62,72.33,59.0,44.83,ANTM,Healthcare
+2016-11-01,56.62,72.33,59.0,44.83,ANTM,Healthcare
+2016-12-01,56.62,72.33,59.0,44.83,ANTM,Healthcare
+2017-01-01,55.33,69.51,59.17,43.74,ANTM,Healthcare
+2017-02-01,55.33,69.51,59.17,43.74,ANTM,Healthcare
+2017-03-01,55.33,69.51,59.17,43.74,ANTM,Healthcare
+2017-04-01,55.33,69.51,59.17,43.74,ANTM,Healthcare
+2017-05-01,56.93,69.51,65.58,43.74,ANTM,Healthcare
+2017-06-01,56.93,69.51,65.58,43.74,ANTM,Healthcare
+2017-07-01,56.93,69.51,65.58,43.74,ANTM,Healthcare
+2017-08-01,59.72,72.29,71.65,44.72,ANTM,Healthcare
+2017-09-01,59.72,72.29,71.65,44.72,ANTM,Healthcare
+2017-10-01,59.4,68.28,72.12,46.42,ANTM,Healthcare
+2017-11-01,59.4,68.28,72.12,46.42,ANTM,Healthcare
+2017-12-01,59.4,68.28,72.12,46.42,ANTM,Healthcare
+2018-01-01,59.4,68.28,72.12,46.42,ANTM,Healthcare
+2018-02-01,59.4,68.28,72.12,46.42,ANTM,Healthcare
+2018-03-01,59.4,68.28,72.12,46.42,ANTM,Healthcare
+2018-04-01,59.4,68.28,72.12,46.42,ANTM,Healthcare
+2018-05-01,59.4,68.28,72.12,46.42,ANTM,Healthcare
+2018-06-01,59.4,68.28,72.12,46.42,ANTM,Healthcare
+2018-07-01,59.4,68.28,72.12,46.42,ANTM,Healthcare
+2018-08-01,57.97,67.28,69.2,45.51,ANTM,Healthcare
+2018-09-01,57.97,67.28,69.2,45.51,ANTM,Healthcare
+2018-10-01,59.3,69.27,69.2,47.14,ANTM,Healthcare
+2018-11-01,60.59,71.65,71.53,47.14,ANTM,Healthcare
+2018-12-01,60.59,71.65,71.53,47.14,ANTM,Healthcare
+2019-01-01,61.25,73.83,71.53,47.14,ANTM,Healthcare
+2019-02-01,61.25,73.83,71.53,47.14,ANTM,Healthcare
+2019-03-01,61.25,73.83,71.53,47.14,ANTM,Healthcare
+2019-04-01,61.25,73.83,71.53,47.14,ANTM,Healthcare
+2019-05-01,61.25,73.83,71.53,47.14,ANTM,Healthcare
+2019-06-01,60.51,71.2,71.53,47.26,ANTM,Healthcare
+2019-07-01,60.51,71.2,71.53,47.26,ANTM,Healthcare
+2019-08-01,60.46,71.2,71.53,47.14,ANTM,Healthcare
+2019-09-01,61.22,71.2,71.53,48.83,ANTM,Healthcare
+2019-10-01,62.2,69.21,77.83,48.83,ANTM,Healthcare
+2019-11-01,62.2,69.21,77.83,48.83,ANTM,Healthcare
+2019-12-01,23.83,6.71,0.05,17.07,ANTM,Healthcare
+2020-01-01,23.75,6.63,0.05,17.07,ANTM,Healthcare
+2020-02-01,16.7,6.42,0.05,10.24,ANTM,Healthcare
+2020-03-01,16.7,6.42,0.05,10.24,ANTM,Healthcare
+2020-04-01,,,,,ANTM,Healthcare
+2020-05-01,,,,,ANTM,Healthcare
+2020-06-01,,,,,ANTM,Healthcare
+2020-07-01,16.7,6.42,0.05,10.24,ANTM,Healthcare
+2020-08-01,16.7,6.42,0.05,10.24,ANTM,Healthcare
+2020-09-01,,,,,ANTM,Healthcare
+2020-10-01,15.94,6.13,0.05,9.77,ANTM,Healthcare
+2020-11-01,,,,,ANTM,Healthcare
+2020-12-01,,,,,ANTM,Healthcare
+2021-01-01,12.27,5.27,0.03,6.97,ANTM,Healthcare
+2021-02-01,12.27,5.27,0.03,6.97,ANTM,Healthcare
+2021-03-01,12.27,5.27,0.03,6.97,ANTM,Healthcare
+2021-04-01,,,,,ANTM,Healthcare
+2021-05-01,12.27,5.27,0.03,6.97,ANTM,Healthcare
+2021-06-01,,,,,ANTM,Healthcare
+2021-07-01,,,,,ANTM,Healthcare
+2021-08-01,,,,,ANTM,Healthcare
+2021-09-01,11.81,5.8,0.03,5.98,ANTM,Healthcare
+2021-10-01,,,,,ANTM,Healthcare
+2021-11-01,,,,,ANTM,Healthcare
+2021-12-01,,,,,ANTM,Healthcare
+2022-01-01,,,,,ANTM,Healthcare
+2022-02-01,11.59,5.8,0.03,5.76,ANTM,Healthcare
+2022-03-01,,,,,ANTM,Healthcare
+2022-04-01,,,,,ANTM,Healthcare
+2022-05-01,11.59,5.8,0.03,5.76,ANTM,Healthcare
+2014-09-01,49.0,53.0,42.0,52.0,RMS.PA,Textiles & Apparel
+2014-10-01,49.0,53.0,42.0,52.0,RMS.PA,Textiles & Apparel
+2014-11-01,49.0,53.0,42.0,52.0,RMS.PA,Textiles & Apparel
+2014-12-01,49.0,53.0,42.0,52.0,RMS.PA,Textiles & Apparel
+2015-01-01,49.0,53.0,42.0,52.0,RMS.PA,Textiles & Apparel
+2015-02-01,49.0,53.0,42.0,52.0,RMS.PA,Textiles & Apparel
+2015-03-01,50.0,53.0,44.0,52.0,RMS.PA,Textiles & Apparel
+2015-04-01,50.0,53.0,44.0,52.0,RMS.PA,Textiles & Apparel
+2015-05-01,50.0,53.0,44.0,52.0,RMS.PA,Textiles & Apparel
+2015-06-01,50.0,53.0,44.0,52.0,RMS.PA,Textiles & Apparel
+2015-07-01,50.0,53.0,44.0,52.0,RMS.PA,Textiles & Apparel
+2015-08-01,49.0,49.0,44.0,52.0,RMS.PA,Textiles & Apparel
+2015-09-01,49.0,49.0,44.0,52.0,RMS.PA,Textiles & Apparel
+2015-10-01,49.0,49.0,44.0,52.0,RMS.PA,Textiles & Apparel
+2015-11-01,49.0,49.0,44.0,52.0,RMS.PA,Textiles & Apparel
+2015-12-01,49.0,50.0,44.0,51.0,RMS.PA,Textiles & Apparel
+2016-01-01,48.51,49.5,44.39,51.49,RMS.PA,Textiles & Apparel
+2016-02-01,48.51,49.5,44.39,51.49,RMS.PA,Textiles & Apparel
+2016-03-01,48.51,49.5,44.39,51.49,RMS.PA,Textiles & Apparel
+2016-04-01,46.73,49.5,45.11,46.41,RMS.PA,Textiles & Apparel
+2016-05-01,46.73,49.5,45.11,46.41,RMS.PA,Textiles & Apparel
+2016-06-01,46.73,49.5,45.11,46.41,RMS.PA,Textiles & Apparel
+2016-07-01,46.73,49.5,45.11,46.41,RMS.PA,Textiles & Apparel
+2016-08-01,46.73,49.5,45.11,46.41,RMS.PA,Textiles & Apparel
+2016-09-01,46.79,49.5,45.11,46.56,RMS.PA,Textiles & Apparel
+2016-10-01,46.79,49.5,45.11,46.56,RMS.PA,Textiles & Apparel
+2016-11-01,47.29,51.5,45.11,46.56,RMS.PA,Textiles & Apparel
+2016-12-01,47.29,51.5,45.11,46.56,RMS.PA,Textiles & Apparel
+2017-01-01,46.79,51.5,43.68,46.56,RMS.PA,Textiles & Apparel
+2017-02-01,46.79,51.5,43.68,46.56,RMS.PA,Textiles & Apparel
+2017-03-01,46.75,51.5,43.68,46.46,RMS.PA,Textiles & Apparel
+2017-04-01,49.24,51.9,44.25,51.95,RMS.PA,Textiles & Apparel
+2017-05-01,49.24,51.9,44.25,51.95,RMS.PA,Textiles & Apparel
+2017-06-01,49.24,51.9,44.25,51.95,RMS.PA,Textiles & Apparel
+2017-07-01,49.24,51.9,44.25,51.95,RMS.PA,Textiles & Apparel
+2017-08-01,49.24,51.9,44.25,51.95,RMS.PA,Textiles & Apparel
+2017-09-01,49.24,51.9,44.25,51.95,RMS.PA,Textiles & Apparel
+2017-10-01,48.1,48.2,43.99,51.62,RMS.PA,Textiles & Apparel
+2017-11-01,48.1,48.2,43.99,51.62,RMS.PA,Textiles & Apparel
+2017-12-01,48.1,48.2,43.99,51.62,RMS.PA,Textiles & Apparel
+2018-01-01,48.1,48.2,43.99,51.62,RMS.PA,Textiles & Apparel
+2018-02-01,48.1,48.2,43.99,51.62,RMS.PA,Textiles & Apparel
+2018-03-01,48.1,48.2,43.99,51.62,RMS.PA,Textiles & Apparel
+2018-04-01,48.1,48.2,43.99,51.62,RMS.PA,Textiles & Apparel
+2018-05-01,48.1,48.2,43.99,51.62,RMS.PA,Textiles & Apparel
+2018-06-01,48.1,48.2,43.99,51.62,RMS.PA,Textiles & Apparel
+2018-07-01,48.1,48.2,43.99,51.62,RMS.PA,Textiles & Apparel
+2018-08-01,48.1,48.2,43.99,51.62,RMS.PA,Textiles & Apparel
+2018-09-01,48.1,48.2,43.99,51.62,RMS.PA,Textiles & Apparel
+2018-10-01,51.51,56.1,47.65,52.03,RMS.PA,Textiles & Apparel
+2018-11-01,51.71,56.9,47.65,52.03,RMS.PA,Textiles & Apparel
+2018-12-01,51.66,56.9,47.5,52.03,RMS.PA,Textiles & Apparel
+2019-01-01,51.66,56.9,47.5,52.03,RMS.PA,Textiles & Apparel
+2019-02-01,51.66,56.9,47.5,52.03,RMS.PA,Textiles & Apparel
+2019-03-01,53.22,58.9,48.69,53.64,RMS.PA,Textiles & Apparel
+2019-04-01,53.22,58.9,48.69,53.64,RMS.PA,Textiles & Apparel
+2019-05-01,53.22,58.9,48.69,53.64,RMS.PA,Textiles & Apparel
+2019-06-01,53.22,58.9,48.69,53.64,RMS.PA,Textiles & Apparel
+2019-07-01,53.22,58.9,48.69,53.64,RMS.PA,Textiles & Apparel
+2019-08-01,53.22,58.9,48.69,53.64,RMS.PA,Textiles & Apparel
+2019-09-01,53.22,58.9,48.69,53.64,RMS.PA,Textiles & Apparel
+2019-10-01,53.22,58.9,48.69,53.64,RMS.PA,Textiles & Apparel
+2019-11-01,64.15,67.9,57.83,67.33,RMS.PA,Textiles & Apparel
+2019-12-01,13.3,6.48,1.65,5.18,RMS.PA,Textiles & Apparel
+2020-01-01,11.21,5.96,1.4,3.85,RMS.PA,Textiles & Apparel
+2020-02-01,11.21,5.96,1.4,3.85,RMS.PA,Textiles & Apparel
+2020-03-01,11.21,5.96,1.4,3.85,RMS.PA,Textiles & Apparel
+2020-04-01,,,,,RMS.PA,Textiles & Apparel
+2020-05-01,,,,,RMS.PA,Textiles & Apparel
+2020-06-01,,,,,RMS.PA,Textiles & Apparel
+2020-07-01,11.21,5.96,1.4,3.85,RMS.PA,Textiles & Apparel
+2020-08-01,11.21,5.96,1.4,3.85,RMS.PA,Textiles & Apparel
+2020-09-01,,,,,RMS.PA,Textiles & Apparel
+2020-10-01,11.21,5.96,1.4,3.85,RMS.PA,Textiles & Apparel
+2020-11-01,,,,,RMS.PA,Textiles & Apparel
+2020-12-01,,,,,RMS.PA,Textiles & Apparel
+2021-01-01,11.26,6.01,1.4,3.85,RMS.PA,Textiles & Apparel
+2021-02-01,11.26,6.01,1.4,3.85,RMS.PA,Textiles & Apparel
+2021-03-01,11.26,6.01,1.4,3.85,RMS.PA,Textiles & Apparel
+2021-04-01,,,,,RMS.PA,Textiles & Apparel
+2021-05-01,11.26,6.01,1.4,3.85,RMS.PA,Textiles & Apparel
+2021-06-01,,,,,RMS.PA,Textiles & Apparel
+2021-07-01,,,,,RMS.PA,Textiles & Apparel
+2021-08-01,,,,,RMS.PA,Textiles & Apparel
+2021-09-01,10.25,5.56,0.78,3.91,RMS.PA,Textiles & Apparel
+2021-10-01,,,,,RMS.PA,Textiles & Apparel
+2021-11-01,,,,,RMS.PA,Textiles & Apparel
+2021-12-01,,,,,RMS.PA,Textiles & Apparel
+2022-01-01,,,,,RMS.PA,Textiles & Apparel
+2022-02-01,10.25,5.56,0.78,3.91,RMS.PA,Textiles & Apparel
+2022-03-01,,,,,RMS.PA,Textiles & Apparel
+2022-04-01,,,,,RMS.PA,Textiles & Apparel
+2022-05-01,10.3,5.56,0.75,3.99,RMS.PA,Textiles & Apparel
+2022-06-01,,,,,RMS.PA,Textiles & Apparel
+2022-07-01,,,,,RMS.PA,Textiles & Apparel
+2022-08-01,10.3,5.56,0.75,3.99,RMS.PA,Textiles & Apparel
